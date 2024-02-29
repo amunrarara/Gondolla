@@ -1,9 +1,20 @@
+> Date: Thursday, February 29th, 2024
+> Time: 3:12pm PST
+
+Already there is need to update my previous Welcome message.
+
+I have intended for this Vault to contain a great sum of my writing, but not the whole of it. The materials that belong to the corpus known as Gondōlla, but contain also some historical Earth-based fiction, as well. That is a characteristic of my writing process, that I oft write tales which attempt either to anchor on this Earth, or anchor in Gondōlla, which (at the time I do not know for certain) may or may not contain our Earth, be it even the galaxy we now inhabit. Gondōlla holds at time to a chronology that marks it as *the first galaxy*, a proto-realm wherein the first mingling of Shaddáh and Ádmata birth the many phenomena of the universe experienced by the Beings of the galaxy. So, some tales, such as [[Tales of the Galaxy/The Account of The Great Scribe Seshatu]] will contain reference to Ancient Egypt Herself, which is a very important anchorpoint in my inner imaginative soup.
+
+Since this Vault is meant to evolve with time, I will do my best to keep a changelog of tales which allow any given story to be re-read in its earlier versions, as I anticipate the whole of this Vault, someday, to contain a sort of self-answering, self-referencing codex to the tales woven unto Gondōlla Herself.
+
+---
+
 > Date: Wednesday, February 28th, 2024
 > Time: 6:28pm PST
 
 An introduction is in order.
 
-My name is Acea Spades. Yes, this is my *true name*, and also my *birth name*. 
+My name is Acea Spades.
 
 The writing contained within this Vault consists of a part of my life's work, early in stage yet mature in age, a collection of stories which interconnect in sometimes-unforeseen ways. 
 
@@ -18,6 +29,7 @@ I will save the more long-winded discussions of this work, its gestation, early 
 Instead, I hope to represent a bit of my own Spirit in this work; not only in its completed parts, which today you read, but in the journey of its making, too. Let me explain.
 
 You see, I am a Programmer. A Coder. A Scribe. I write instructions that are executed on computers. The Craft is a unique expression of our late-and-present millenniums, and with it bears its own characters and characteristics, unique unto it as a medium of art, and expression. In creating written works to-be-read by computers, we utilize a system of file-saving called simply *version control*, of which *Git* is the currently most popular. 
+
 
 The popular service, Github, is one of the more-powerful tools available to software developers. Among its features is the ability to perform automatic program execution based on certain parameters of things saved into its service. With it, I can save my written work, and immediately execute a rebuild of my website. But, not only this, I can also save in-progress versions of my work, which can be retraced at any point in time, to reconstruct a history of creations, revisions, and destructions, within the Vault that you now read.
 
