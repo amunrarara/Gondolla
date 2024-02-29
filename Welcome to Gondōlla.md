@@ -7,7 +7,7 @@ My name is Acea Spades. Yes, this is my *true name*, and also my *birth name*.
 
 The writing contained within this Vault consists of a part of my life's work, early in stage yet mature in age, a collection of stories which interconnect in sometimes-unforeseen ways. 
 
-The work is called **Gondölla: A Spiritual Galactic Mythology**.
+The work is called **Gondōlla: A Spiritual Galactic Mythology**.
 
 It is a nerve-bending thing, to be releasing work that is so dear to my soul, so early in its gestation. JRR Tolkien, one of my chief mentors, inspirations, and heroes, allowed The Silmarillion more than seventy years to blossom, propagate its seeds in the garden of his mind, and the many fruits within his lifetime which sprung for it were a fascination of his for his entire lifetime. 
 
