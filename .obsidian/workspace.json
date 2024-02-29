@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Gondölla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Gondölla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome to Gondölla.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,11 +153,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "82bfba3f1b88904a",
+  "active": "1737439c4634f642",
   "lastOpenFiles": [
-    "Welcome to Gondölla.md"
+    "Welcome to Gondölla.md",
+    "publish.css",
+    "publish.css.md"
   ]
 }
