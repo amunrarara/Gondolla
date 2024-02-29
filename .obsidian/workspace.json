@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forces of the Cosmos/Forces of the Cosmos.md",
+                "file": "Shaddāh.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forces of the Cosmos/The Átma.md",
+                "file": "Shaddāh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forces of the Cosmos/The Átma.md",
+                "file": "Shaddāh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forces of the Cosmos/The Átma.md"
+                "file": "Shaddāh.md"
               }
             }
           }
@@ -172,10 +171,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b04c59d3ab8f09a0",
+  "active": "1737439c4634f642",
   "lastOpenFiles": [
-    "Forces of the Cosmos/Ádmata.md",
     "Forces of the Cosmos/Forces of the Cosmos.md",
+    "Shaddāh.md",
+    "Forces of the Cosmos/Ádmata.md",
     "Forces of the Cosmos/The Átma.md",
     "Deities, Beings, Powers/Mēka.md",
     "Forces of the Cosmos/Dánë - Lesser Light.md",
