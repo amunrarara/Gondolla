@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a628765b031a0f61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tales of the Galaxy/The Tragedy of Sávofei.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b04c59d3ab8f09a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals and Thoughts/2021-12-08.md",
+                "file": "Tales of the Galaxy/The Tragedy of Sávofei.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Gondōlla.md",
+                "file": "Tales of the Galaxy/The Tragedy of Sávofei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Gondōlla.md",
+                "file": "Tales of the Galaxy/The Tragedy of Sávofei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to Gondōlla.md"
+                "file": "Tales of the Galaxy/The Tragedy of Sávofei.md"
               }
             }
           }
@@ -172,19 +159,25 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c9b09689831b48c4",
+  "active": "b04c59d3ab8f09a0",
   "lastOpenFiles": [
-    "Tales of the Galaxy/The Account of The Great Scribe Seshatu.md",
+    "Journals and Thoughts/2019-06-20.md",
+    "Journals and Thoughts/2019-06-24.md",
+    "Journals and Thoughts/2019-06-25.md",
+    "Journals and Thoughts/2022-12-13.md",
+    "Tales of the Galaxy/Tale of the Starwalkers.md",
+    "Journals and Thoughts/2021-12-10.md",
+    "Journals and Thoughts/2021-12-08.md",
+    "Tales of the Galaxy/The Tragedy of Sávofei.md",
     "Welcome to Gondōlla.md",
+    "Tales of the Galaxy/The Account of The Great Scribe Seshatu.md",
     "The Account of The Great Scribe Seshatu.md",
     "Tales of the Galaxy/The Star Glass",
-    "Journals and Thoughts/2021-12-08.md",
     "Untitled",
     "Languages/High Adáni - Vocabulary.md",
     "Languages/High Adáni - Introduction - Languages of Gondōlla.md",
     "Languages/High Adáni - Grammar.md",
     "Forces of the Cosmos/The Átma.md",
-    "Tales of the Galaxy/The Tragedy of Sávofei.md",
     "Tales of the Galaxy/Data Crash.md",
     "Other Tales - Not of Gondōlla/Other Tales - Not of Gondōlla.md",
     "Other Tales - Not of Gondōlla",
@@ -192,19 +185,13 @@
     "Tale.md",
     "Tales of the Galaxy/Data Crash",
     "Tales of the Galaxy/Untitled.md",
-    "Journals and Thoughts/2019-06-25.md",
-    "Journals and Thoughts/2019-06-24.md",
-    "Journals and Thoughts/2019-06-20.md",
     "Journals and Thoughts",
-    "Tales of the Galaxy/Tale of the Starwalkers.md",
     "Tales of the Galaxy/Wanderer.md",
     "Peoples of Gondölla/The Echoes.md",
     "Tales of the Galaxy/Scribe of Star Glass.md",
     "Forces of the Cosmos/Forces of the Cosmos.md",
     "Forces of the Cosmos/Gōndë - Land of Light and Shadow.md",
     "Shaddāh.md",
-    "Deities, Beings, Powers/Mēka.md",
-    "Forces of the Cosmos/Dánë - Lesser Light.md",
     "Forces of the Cosmos",
     "Deities, Beings, Powers",
     "Tales of the Galaxy",
