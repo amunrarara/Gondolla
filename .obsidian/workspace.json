@@ -11,11 +11,9 @@
             "id": "b04c59d3ab8f09a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Journals and Thoughts/2023-04-01.md",
-                "mode": "source",
-                "source": false
+                "file": "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals and Thoughts/2023-04-01.md",
+                "file": "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals and Thoughts/2023-04-01.md",
+                "file": "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals and Thoughts/2023-04-01.md"
+                "file": "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png"
               }
             }
           }
@@ -159,12 +157,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b04c59d3ab8f09a0",
+  "active": "81fb137ecd968c38",
   "lastOpenFiles": [
-    "Journals and Thoughts/2015-08-18.md",
-    "Journals and Thoughts/2015-08-19.md",
+    "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
+    "Media, Images, and Visualizations/StudentsOfTheStoneWords_lowres.png",
+    "Media, Images, and Visualizations/PortalOfTheSunGod_lowres.png",
+    "Media, Images, and Visualizations/AcademyOfTheAmun_GreatCities_byAmunPtahKhepera.png",
+    "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
     "Journals and Thoughts/2023-04-01.md",
     "Tales of the Galaxy/The Tragedy of Sávofei.md",
+    "Media, Images, and Visualizations/Archive.zip",
+    "Media, Images, and Visualizations",
+    "Journals and Thoughts/2015-08-18.md",
+    "Journals and Thoughts/2015-08-19.md",
     "Journals and Thoughts/2019-06-20.md",
     "Journals and Thoughts/2019-06-24.md",
     "Journals and Thoughts/2019-06-25.md",
@@ -176,7 +181,6 @@
     "Tales of the Galaxy/The Account of The Great Scribe Seshatu.md",
     "The Account of The Great Scribe Seshatu.md",
     "Tales of the Galaxy/The Star Glass",
-    "Untitled",
     "Languages/High Adáni - Vocabulary.md",
     "Languages/High Adáni - Introduction - Languages of Gondōlla.md",
     "Languages/High Adáni - Grammar.md",
@@ -191,11 +195,9 @@
     "Journals and Thoughts",
     "Tales of the Galaxy/Wanderer.md",
     "Peoples of Gondölla/The Echoes.md",
-    "Tales of the Galaxy/Scribe of Star Glass.md",
     "Forces of the Cosmos",
     "Deities, Beings, Powers",
     "Tales of the Galaxy",
-    "Peoples of Gondölla",
-    "Languages"
+    "Peoples of Gondölla"
   ]
 }
