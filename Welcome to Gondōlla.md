@@ -1,53 +1,49 @@
-> Date: Thursday, February 29th, 2024
+## *Hearken ye, Spirit who Walks Between the Worlds!*
 
-> Time: 5:08pm PST
+### What is Gondōlla?
+The name *Gondōlla* is given to the first Galaxy, a primordial region wherein the deeds of ancient peoples capable of *walking between the worlds* allowed travel between the stars through means driven by Spiritual capacities, available within all who chose to develop them. 
 
-I've gone ahead and decided to publish my *non-Gondōllan works* in this vault as well, for the time being, while I get my publishing universe in-order. 
+This website contains the work-in-progress story, with supporting materials, which has been part of my life's work now for greater than a decade. It is the in-transformation tale from many-numbered journal entries, splinters of tales, pieces and bits, characters who show their faces in many different lives and lifetimes, languages, cosmological ideas, Spiritual ideals, videogame ideas, and much, much more. 
 
-There will be multiple vaults, and I will connect them together at my personal website, https://aceaspades.com. Going there will give access to my various spaces of thought, of which Gondōlla will be a chief. But, there are other entire corpuses of my work that must be represented. Soon to come.
+Due to the nature of my mind, I find it necessary to release my work as-is, and allow the Reader (that's you) to embark upon the journey with me, as I bring this story from its seminal form, into a more-complete corpus of completion.
 
-
-> Time: 3:12pm PST
-
-Already there is need to update my previous Welcome message.
-
-## All Over the Place
-I have intended for this Vault to contain a great sum of my writing, but not the whole of it. The materials that belong to the corpus known as Gondōlla, but contain also some historical Earth-based fiction, as well. That is a characteristic of my writing process, that I oft write tales which attempt either to anchor on this Earth, or anchor in Gondōlla, which (at the time I do not know for certain) may or may not contain our Earth, be it even the galaxy we now inhabit. Gondōlla holds at time to a chronology that marks it as *the first galaxy*, a proto-realm wherein the first mingling of Shaddáh and Ádmata birth the many phenomena of the universe experienced by the Beings of the galaxy. So, some tales, such as [[Tales of the Galaxy/The Account of The Great Scribe Seshatu]] will contain reference to Ancient Egypt Herself, which is a very important anchorpoint in my inner imaginative soup.
-
-Since also there are multiple modes of expression which my tales wish to take, changing seamlessly (sometimes laboriously) one unto the other, the Reader (that's you) will find interspersed with fiction, often ideas for games, primarily virtual / videogames, but oft breaking into spatial games, too.
-
-## Changelogs: You Deserve 'Em
-Since this Vault is meant to evolve with time, I will do my best to keep a changelog of tales which allow any given story to be re-read in its earlier versions, as I anticipate the whole of this Vault, someday, to contain a sort of self-answering, self-referencing codex to the tales woven unto Gondōlla Herself.
-
-## Journals A-Plenty
-You'll find the absolute bulk of my work is currently contained in my Journals folder. Take my word on it: this currently represents about 30% of my total writing regarding Gondōlla and associated tales. There are written works of paper, drawings, audio recordings of me speaking, and other digital files which still must be collected for the set to be considered complete. It's a feat in its own right, collecting these things together.
+I hope you enjoy reading it as thoroughly as I have creating it. Please mind the mess.
 
 ---
+### Peoples
+Gondōlla is home to many Beings whose deeds are part and parcel to the story as a whole. 
 
-> Date: Wednesday, February 28th, 2024
-> Time: 6:28pm PST
+The various peoples of Gondōlla are described within the folder titled: ***Peoples of Gondōlla***.
 
-An introduction is in order.
+---
+### Tales
+The tales are often told by the inhabitants of Gondōlla, as histories, parables, and myths. There are languages within Gondōlla and utilized throughout the written works, cunningly crafted to give depth and detail to the cosmological worldview of the *Adáni*, the people who, like us, dwell upon planets and inhabit physical bodies. 
 
-My name is Acea Spades.
+Their tales are contained in the folder titled: ***Tales of the Galaxy***
 
-The writing contained within this Vault consists of a part of my life's work, early in stage yet mature in age, a collection of stories which interconnect in sometimes-unforeseen ways. 
+---
+### Religion, Spirituality, and Cosmology
+The characteristics of their religion and cosmological worldview are the backbone of their tales, and their struggles, as it is the belief of adherents to this ancient way that they are participants in the great transformation of the galaxy, across a near-uncountable expanse of time, playing a role of central importance: the transformation of dark, lightless matter (called *Shaddáh*) into an enlivened, astral form (called *Admáta*). 
 
-The work is called **Gondōlla: A Spiritual Galactic Mythology**.
+Their worldview is described in manifold entries contained within two folders: **Deities, Beings, Powers***, and ***Forces of the Cosmos***
 
-It is a nerve-bending thing, to be releasing work that is so dear to my soul, so early in its gestation. JRR Tolkien, one of my chief mentors, inspirations, and heroes, allowed The Silmarillion more than seventy years to blossom, propagate its seeds in the garden of his mind, and the many fruits within his lifetime which sprung for it were a fascination of his for his entire lifetime. 
+---
+### Languages
+The mytholocial events which gave birth to the galaxy and its varied phenomena are given their own tales, and weave into other stories throughout. The language, science, and cosmology of the Adáni are given representation in this work, as well. 
 
-I, a man of currently 32 years, have long-ago embarked on a creative journey of my own; terrifying, exhilirating, oft-frustrating, yet always fruitful in its own right. My interests draw me across a veritable night-sky worth of different pursuits; I call the many-passioned projects and arts that have filled my time, my "Constellation of Interests". Let me assure you, now, that this work has been a chief among them. 
+The languages within Gondōlla are outlined in the folder called ***Languages****.
 
-I will save the more long-winded discussions of this work, its gestation, early seeds, blossoms and blooms, for perhaps a later time. I intend to release this Vault somewhat episodically, so to speak, but not in a traditional sense, as in clean chapters, short stories, or releases of fully-completed works in this manner.
+---
+### My Journals
+It is important to note that this has been a life's work of mine. It is incredibly difficult to distill such magnagimous efforts into smaller, simple parts, and it is now my resolved intention to release my work, as-is, in-progress, as I write it. Thus I have included as many of my digitized journal entries regarding Gondōlla and its containing tales as I could yet discover, and daily I continue to add more. There are many paper works that still must be digitized, which I will someday include as both photographs, and digitized journal entries. 
 
-Instead, I hope to represent a bit of my own Spirit in this work; not only in its completed parts, which today you read, but in the journey of its making, too. Let me explain.
+My journals can be found in the folder titles ***Journals and Thoughts***.
 
-You see, I am a Programmer. A Coder. A Scribe. I write instructions that are executed on computers. The Craft is a unique expression of our late-and-present millenniums, and with it bears its own characters and characteristics, unique unto it as a medium of art, and expression. In creating written works to-be-read by computers, we utilize a system of file-saving called simply *version control*, of which *Git* is the currently most popular. 
+---
+### Media
+To support some of the stories, I have also created maps, generated images, and other illustrations. These can be found in ***Media, Images, and Visualizations***.
 
+---
+### My Other Written Works
+It is my intention to publish *all* of my life's written works throughout the next span of life. For now, due to limitations of time, I am containing my other published *non-Gondōllan* stories here in this vault, which will eventually be moved to a separate location. These are contained within ***Non-Gondōllan Stories***.
 
-The popular service, Github, is one of the more-powerful tools available to software developers. Among its features is the ability to perform automatic program execution based on certain parameters of things saved into its service. With it, I can save my written work, and immediately execute a rebuild of my website. But, not only this, I can also save in-progress versions of my work, which can be retraced at any point in time, to reconstruct a history of creations, revisions, and destructions, within the Vault that you now read.
-
-Thus, I implore you, enjoy this work, and check back often, as it is an ever-evolving system. If you wish to see an earlier version, you may do so by visiting my Github. I will soon implement a system on this website for version-hopping between different saves, mark my words.
-
-Many of the tales contained have been part of many of my 'constellations of interest'; you may find reference to videogames, comics, written works, audio tales, and the like; these works are meant, in course of my lifetime, to be part of a greater corpus, which spans through many modes of media. 

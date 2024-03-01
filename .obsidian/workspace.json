@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals and Thoughts/2022-02-07 - AF Vg.md",
+                "file": "Welcome to Gondōlla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcfa502c5a99607e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to Gondōlla.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals and Thoughts/2022-02-07 - AF Vg.md",
+                "file": "Welcome to Gondōlla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals and Thoughts/2022-02-07 - AF Vg.md",
+                "file": "Welcome to Gondōlla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals and Thoughts/2022-02-07 - AF Vg.md"
+                "file": "Welcome to Gondōlla.md"
               }
             }
           }
@@ -159,8 +172,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b04c59d3ab8f09a0",
+  "active": "fcfa502c5a99607e",
   "lastOpenFiles": [
+    "Site Updates.md",
+    "Welcome to Gondōlla.md",
+    "Journals and Thoughts/2022-02-07 - AF Vg.md",
     "Journals and Thoughts/2022-03-12 - AF Vg.md",
     "Journals and Thoughts/2022-03-08 - AF Vg.md",
     "Journals and Thoughts/2022-01-31 - AF Vg.md",
@@ -189,12 +205,9 @@
     "Tales of the Galaxy/The Musician.md",
     "Non-Gondōllan Stories/man-eating.png",
     "Media, Images, and Visualizations/mafu-and-ani.png",
-    "Non-Gondōllan Stories/IAmTerminal.md",
     "Non-Gondōllan Stories/Jimmy_LoveGod.png",
-    "Tales of the Galaxy/A Robot Story.md",
     "Media, Images, and Visualizations/cyberscape.png",
     "Media, Images, and Visualizations/robot-talking.png",
-    "Non-Gondōllan Stories/TheSundragonOath.md",
     "Non-Gondōllan Stories",
     "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
