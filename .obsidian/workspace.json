@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals and Thoughts/2022-04-28 - AF Vg.md",
+                "file": "Non-Gondōllan Stories/WalkingInTheWorldsOfMyFantasy.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals and Thoughts/2022-04-28 - AF Vg.md",
+                "file": "Non-Gondōllan Stories/WalkingInTheWorldsOfMyFantasy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals and Thoughts/2022-04-28 - AF Vg.md",
+                "file": "Non-Gondōllan Stories/WalkingInTheWorldsOfMyFantasy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals and Thoughts/2022-04-28 - AF Vg.md"
+                "file": "Non-Gondōllan Stories/WalkingInTheWorldsOfMyFantasy.md"
               }
             }
           }
@@ -161,6 +161,26 @@
   },
   "active": "b04c59d3ab8f09a0",
   "lastOpenFiles": [
+    "Non-Gondōllan Stories/VioletStarlight.md",
+    "Non-Gondōllan Stories/gandalf-moria-door.jpeg",
+    "Non-Gondōllan Stories/violet-girl.png",
+    "Non-Gondōllan Stories/TheSongOfTheHighAbove.md",
+    "Non-Gondōllan Stories/MeatAndPotatoesAndSelfAbuse.md",
+    "Non-Gondōllan Stories/birds-in-flight.png",
+    "Tales of the Galaxy/The Musician.md",
+    "Non-Gondōllan Stories/man-eating.png",
+    "Non-Gondōllan Stories/LoveGod.md",
+    "Media, Images, and Visualizations/mafu-and-ani.png",
+    "Non-Gondōllan Stories/IAmTerminal.md",
+    "Non-Gondōllan Stories/Jimmy_LoveGod.png",
+    "Tales of the Galaxy/A Robot Story.md",
+    "Media, Images, and Visualizations/cyberscape.png",
+    "Media, Images, and Visualizations/robot-talking.png",
+    "Non-Gondōllan Stories/WalkingInTheWorldsOfMyFantasy.md",
+    "Non-Gondōllan Stories/TheSundragonOath.md",
+    "Welcome to Gondōlla.md",
+    "Non-Gondōllan Stories",
+    "Journals and Thoughts/2022-04-28 - AF Vg.md",
     "Journals and Thoughts/2022-05-16 - AF Vg.md",
     "Journals and Thoughts/2022-05-15 - AF Vg.md",
     "Journals and Thoughts/2022-01-19 - AF Vg.md",
@@ -175,23 +195,8 @@
     "Journals and Thoughts/Untitled.md",
     "Journals and Thoughts/2022-02-07 - AF Vg.md",
     "Journals and Thoughts/2022-01-31 - AF Vg.md",
-    "Journals and Thoughts/2022-01-29 - AF Vg.md",
-    "Journals and Thoughts/2022-01-26 - AF Vg.md",
-    "Journals and Thoughts/2021-12-17 - AF Vg.md",
-    "Journals and Thoughts/2024-01-24 AF Vg.md",
-    "Journals and Thoughts/2022-01-06 - AF Vg.md",
-    "Journals and Thoughts/2022-01-12 - AF Vg.md",
-    "Journals and Thoughts/2023-05-13 - AF Vg.md",
-    "Journals and Thoughts/2023-04-01 - AF Vg.md",
-    "Journals and Thoughts/2023-11-14.md",
-    "Journals and Thoughts/2022-04-28 - AF Vg.md",
-    "Journals and Thoughts/2022-04-30 - AF Vg.md",
-    "Journals and Thoughts/2022-04-29 - AF Vg.md",
     "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
-    "Media, Images, and Visualizations/StudentsOfTheStoneWords_lowres.png",
-    "Media, Images, and Visualizations/PortalOfTheSunGod_lowres.png",
-    "Media, Images, and Visualizations/AcademyOfTheAmun_GreatCities_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/Archive.zip",
     "Media, Images, and Visualizations",
     "Tales of the Galaxy/The Star Glass",
@@ -200,7 +205,6 @@
     "Journals and Thoughts",
     "Forces of the Cosmos",
     "Deities, Beings, Powers",
-    "Tales of the Galaxy",
-    "Peoples of Gondölla"
+    "Tales of the Galaxy"
   ]
 }
