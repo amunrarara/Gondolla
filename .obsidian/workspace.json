@@ -11,9 +11,11 @@
             "id": "b04c59d3ab8f09a0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png"
+                "file": "Journals and Thoughts/2023-04-01 - Ani.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
+                "file": "Journals and Thoughts/2023-04-01 - Ani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
+                "file": "Journals and Thoughts/2023-04-01 - Ani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png"
+                "file": "Journals and Thoughts/2023-04-01 - Ani.md"
               }
             }
           }
@@ -157,14 +159,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "81fb137ecd968c38",
+  "active": "b04c59d3ab8f09a0",
   "lastOpenFiles": [
+    "Journals and Thoughts/2023-04-01 - Data Crash.md",
+    "Journals and Thoughts/2023-04-01 - Neuratic Signature.md",
+    "Journals and Thoughts/2023-04-01 - The Mountains of Light.md",
+    "Journals and Thoughts/2023-04-01 - The True History.md",
+    "Journals and Thoughts/2023-04-01 - Ani.md",
+    "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/StudentsOfTheStoneWords_lowres.png",
     "Media, Images, and Visualizations/PortalOfTheSunGod_lowres.png",
     "Media, Images, and Visualizations/AcademyOfTheAmun_GreatCities_byAmunPtahKhepera.png",
-    "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
-    "Journals and Thoughts/2023-04-01.md",
     "Tales of the Galaxy/The Tragedy of Sávofei.md",
     "Media, Images, and Visualizations/Archive.zip",
     "Media, Images, and Visualizations",
@@ -191,10 +197,7 @@
     "Forces of the Cosmos/Ádmata.md",
     "Tale.md",
     "Tales of the Galaxy/Data Crash",
-    "Tales of the Galaxy/Untitled.md",
     "Journals and Thoughts",
-    "Tales of the Galaxy/Wanderer.md",
-    "Peoples of Gondölla/The Echoes.md",
     "Forces of the Cosmos",
     "Deities, Beings, Powers",
     "Tales of the Galaxy",

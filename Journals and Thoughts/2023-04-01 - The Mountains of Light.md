@@ -1,9 +1,3 @@
-This project, Data Crash, takes place within the galaxy of Gondölla. 
-
-Gondölla is a series of connected tales, but particularly Data Crash is focused on a planet whence a golden age of science and technical development took place, which gave birth to the *Echoes*, beings of metal who spread across Gondölla in the following centuries. The planet went through a long, steady decline, until becoming a desert land, its inhabitants few and hunted by monsters of metal, whom they call Hunters.
-
-Data Crash is intented as a novel, videogame, a comic book, and could become a screenplay. As such, my notes on the story are pretty spread out currently. I'll be collecting them here, over the years.
-
 # The Mountains of Light
 
 Their peak hosts An Alne Aun, The Temple of Aun. Rolling torrents of light shower forth from its foundations, the gift of Aun, and settle in the pools of Aminoun. These fountains are made of the powerful Admatasi, Soul's Atoms, which carry the capacity of assembling light into its various forms. Every being hosts an Admata, and every world is the construct of the Admatasi. 
