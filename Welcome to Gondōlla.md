@@ -5,6 +5,8 @@ Already there is need to update my previous Welcome message.
 
 I have intended for this Vault to contain a great sum of my writing, but not the whole of it. The materials that belong to the corpus known as Gondōlla, but contain also some historical Earth-based fiction, as well. That is a characteristic of my writing process, that I oft write tales which attempt either to anchor on this Earth, or anchor in Gondōlla, which (at the time I do not know for certain) may or may not contain our Earth, be it even the galaxy we now inhabit. Gondōlla holds at time to a chronology that marks it as *the first galaxy*, a proto-realm wherein the first mingling of Shaddáh and Ádmata birth the many phenomena of the universe experienced by the Beings of the galaxy. So, some tales, such as [[Tales of the Galaxy/The Account of The Great Scribe Seshatu]] will contain reference to Ancient Egypt Herself, which is a very important anchorpoint in my inner imaginative soup.
 
+Since also there are multiple modes of expression which my tales wish to take, changing seamlessly (sometimes laboriously) one unto the other, the Reader (that's you) will find interspersed with fiction, often ideas for games, primarily virtual / videogames, but oft breaking into spatial games, too.
+
 Since this Vault is meant to evolve with time, I will do my best to keep a changelog of tales which allow any given story to be re-read in its earlier versions, as I anticipate the whole of this Vault, someday, to contain a sort of self-answering, self-referencing codex to the tales woven unto Gondōlla Herself.
 
 ---
