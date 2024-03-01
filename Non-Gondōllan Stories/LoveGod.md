@@ -4,9 +4,9 @@ Jimmy sat in his bedroom, stooping over his desk, trembling with a pencil in his
 
 His shaky hands made fussy lines despite how many times he tried to make the letters perfect. The note read:
 
-Cindy, I love you. Do you love me?
-Yes  -  No 
-Jimmy
+*Cindy, I love you. Do you love me?*
+**Yes  -  No** 
+*Jimmy*
 
 He stared at the paper for a long time. Tears appeared in little beads around his eyes. He snatched the paper from the table, smashed it between his hands, and threw it against the wall. The doorbell rang. Downstairs, his mother's footsteps made a line from the kitchen to the entryway. The door creaked on its hinges, followed by the muffled voices of happy people. The sounds echoed in the hallway and intruded from under Jimmy's door. His grandfather, and his grandmother, voices thick with an old-world accent, made bright conversation with his very-American mother. There was another voice, too, probably Uncle Roman's; Jimmy could already smell rotten alcohol and convenience-store cologne.
 
