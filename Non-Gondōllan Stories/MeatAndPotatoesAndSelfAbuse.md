@@ -1,4 +1,4 @@
-[[man-eating.png]]
+![[man-eating.png]]
 
 Just ten more minutes. I keep saying that. Stupid. I'm stupid. Stupid stupid.
 I've been sitting here for twenty minutes. That stupid waiter is probably

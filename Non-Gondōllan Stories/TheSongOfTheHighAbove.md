@@ -1,4 +1,4 @@
-[[birds-in-flight.png]]
+![[birds-in-flight.png]]
 
 # The Song of The High Above
 

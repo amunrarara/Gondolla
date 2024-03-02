@@ -1,4 +1,4 @@
-[[Jimmy_LoveGod.png]]
+![[Jimmy_LoveGod.png]]
 
 Jimmy sat in his bedroom, stooping over his desk, trembling with a pencil in his hand. Twenty or so balls of crushed paper littered the messy floor, three on his dirty bed. On the desk, being scrutinized by his terrified eyes, was a love letter.  
 

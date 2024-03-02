@@ -1,4 +1,4 @@
-[[cyberscape.png]]
+![[cyberscape.png]]
 
 Written for English 293 – Science Fiction Class 
 Seattle Central College

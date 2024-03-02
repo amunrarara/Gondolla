@@ -1,4 +1,4 @@
-[[gandalf-moria-door.jpeg]]
+![[gandalf-moria-door.jpeg]]
 
 *This essay was my first published work. In 2011, when I was 20, I had the exciting role of assistant to a writer's coach, and this was my introduction piece for display on her blog. See the original post here:*
 

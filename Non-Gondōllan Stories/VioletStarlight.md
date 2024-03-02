@@ -1,4 +1,4 @@
-[[violet-girl.png]]
+![[violet-girl.png]]
 
 Violet Starlight
 
