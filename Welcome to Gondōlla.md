@@ -51,5 +51,5 @@ To support some of the stories, I have also created maps, generated images, and 
 
 ---
 ### My Other Written Works
-It is my intention to publish *all* of my life's written works throughout the next span of life. For now, due to limitations of time, I am containing my other published *non-Gondōllan* stories here in this vault, which will eventually be moved to a separate location. These are contained within ***Non-Gondōllan Stories***.
+It is my intention to publish *all* of my life's written works throughout the next span of life. For now, due to limitations of time, I am containing my other published *non-Gondōllan* stories here in this vault, which will eventually be moved to a separate location. These are contained within ***Non-Gondōllan Stories***. Some are also found within ***Poetry***
 

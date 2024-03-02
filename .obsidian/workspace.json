@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to Gondōlla.md",
+                "file": "Poetry/Sea Haven.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Gondōlla.md",
+                "file": "Poetry/Sea Haven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Gondōlla.md",
+                "file": "Poetry/Sea Haven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to Gondōlla.md"
+                "file": "Poetry/Sea Haven.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "c9b09689831b48c4",
   "lastOpenFiles": [
-    "Site Updates.md",
     "Welcome to Gondōlla.md",
+    "Site Updates.md",
     "Non-Gondōllan Stories/VioletStarlight.md",
     "Non-Gondōllan Stories/violet-girl.png",
     "Non-Gondōllan Stories/WalkingInTheWorldsOfMyFantasy.md",

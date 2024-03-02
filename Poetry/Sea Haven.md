@@ -1,6 +1,5 @@
 > Written on April 13th, 2019
 
-
 How can I say that all is truly well?
 my life, my love, my home, my hearth,
 
@@ -45,5 +44,4 @@ is but a doorway to my treasures,
 and my making of this harbour, this simple little place,
 is the glory of my greatest hour.
 
-I await their return, but do not turn the hourglass, 
-for there are few things that such a tool can measure.
+I await their return, but do not turn the hourglass.
