@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Abecedarium",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
 }

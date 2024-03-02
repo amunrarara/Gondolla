@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to Gondōlla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcfa502c5a99607e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome to Gondōlla.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Gondōlla.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Gondōlla.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to Gondōlla.md"
+                "file": "README.md"
               }
             }
           }
@@ -172,11 +159,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fcfa502c5a99607e",
+  "active": "b04c59d3ab8f09a0",
   "lastOpenFiles": [
-    "README.md",
-    "README.md.md",
     "Welcome to Gondōlla.md",
+    "README.md",
+    "Non-Gondōllan Stories/_WorksInProgress/_DashboardWIP.md",
+    "Non-Gondōllan Stories/_WorksInProgress",
+    "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
+    "Media, Images, and Visualizations/StudentsOfTheStoneWords_lowres.png",
+    "Media, Images, and Visualizations/robot-talking.png",
+    "Media, Images, and Visualizations/PortalOfTheSunGod_lowres.png",
+    "Media, Images, and Visualizations/mafu-and-ani.png",
+    "Media, Images, and Visualizations/cyberscape.png",
+    "Media, Images, and Visualizations/AcademyOfTheAmun_GreatCities_byAmunPtahKhepera.png",
+    "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
+    "Welcome Dashboard.md",
+    "README.md.md",
     "Site Updates.md",
     "Journals and Thoughts/2022-02-07 - AF Vg.md",
     "Journals and Thoughts/2022-03-12 - AF Vg.md",
@@ -197,20 +195,9 @@
     "Journals and Thoughts/2019-02-01 - Vista Prime.md",
     "Journals and Thoughts/2018-12-29 - Vista Prime - The Eye of RA.md",
     "Non-Gondōllan Stories/LoveGod.md",
-    "Non-Gondōllan Stories/WalkingInTheWorldsOfMyFantasy.md",
-    "Non-Gondōllan Stories/VioletStarlight.md",
     "Non-Gondōllan Stories/gandalf-moria-door.jpeg",
     "Non-Gondōllan Stories/violet-girl.png",
-    "Non-Gondōllan Stories/TheSongOfTheHighAbove.md",
-    "Non-Gondōllan Stories/birds-in-flight.png",
-    "Non-Gondōllan Stories/man-eating.png",
-    "Media, Images, and Visualizations/mafu-and-ani.png",
-    "Non-Gondōllan Stories/Jimmy_LoveGod.png",
-    "Media, Images, and Visualizations/cyberscape.png",
-    "Media, Images, and Visualizations/robot-talking.png",
     "Non-Gondōllan Stories",
-    "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
-    "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/Archive.zip",
     "Media, Images, and Visualizations",
     "Tales of the Galaxy/The Star Glass",
@@ -218,7 +205,6 @@
     "Tales of the Galaxy/Data Crash",
     "Journals and Thoughts",
     "Forces of the Cosmos",
-    "Deities, Beings, Powers",
-    "Tales of the Galaxy"
+    "Deities, Beings, Powers"
   ]
 }
