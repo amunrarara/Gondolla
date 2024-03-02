@@ -1,3 +1,5 @@
+*Notes from 2023-11-14 were mostly migrated from an old Evernote vault, which puts their date of writing closer to late-2018, early-2019.*
+
 “We are the constructors of universes. It is our lot in life to learn the intricacies and steps required to output incredible Matter into this world, we the builders of new worlds. With our magnanamus power, we will construct the bridge between worlds, visiting the reaches of space, mastering the elements of the skies.”
 
 “Followers of Mata, are you?”  “Must you insist on personifying every force in this universe? Is it not enough that the greatness of the thing has shown itself as alive within our experience, must you collapse its impersonal glory into the droll of a human name?” 

@@ -1,4 +1,30 @@
+---
 
+---
+
+> *Want to see realtime changelogs that show exactly what's changed, and when? Visit the Github repository and check my commit history. Better, less-techy systems coming in the future, for now that's what I got!* https://github.com/amunrarara/gondolla
+
+--- 
+### Saturday, March 2nd, 2024
+#### 12:55pm PST
+
+It came to my attention that *some* of my journal entries from 2023-11-14 were migrated out of an old Evernote vault (proprietary crap, never trust your vault to a third-party completely), so that puts their original date of writing closer to late-2018, early-2019. Annotating these notes as necessary. Most of the notes I migrated over were properly dated, but a fair number of them were not. Some of them I'm adding as entries with approximate dates that are pretty close-enough to the truth.
+
+`git blame` is quite a helpful command, I tell ya, but doesn't always hold the whole story...
+
+#### 1:29pm PST
+
+Whew, I just finished quite a migration this round. I've had a big chunk of old Evernote notes sitting in my primary writing vault, waiting to be categorized and placed in the right locations. 
+
+This vault here has already been shaken somewhat at its foundations; my intent is to allow this vault to mature as a complete codex of everything Gondōlla. But owing to the nature of my mind, it is spilling out to become something far more multiplexed and varied, since many of my stories, ideas, poems, etc. have borders connecting with one another, and Gondōlla often meets each quite closely. 
+
+None the less, for now, I will accept this. As I went through my Evernote, I came into contact with *many* other works which wouldn't necessary belong here in this vault, but has inspired me to go ahead and publish *all* my works of writing, even if they are simply in the seminal form of journal entries, for now.
+
+There are two opposing concerns that have gripped me, these long years, which play one upon the other in painful ways. One is that my work, if released but not "complete", will be stolen and crafted into new art which I will not be credited for. The other, is that my life will be filled with partial attempts at releasing completed work which never see the light of day. These both have given rise to a new understanding: my craft is perennial, transforming, and daily grows. Having these works published in their messiest, but applying this new creative endeavor of "edit as I go, everything is released" is a new approach that I hope to bring into creative works, in general. We do not always need our work to be an absolutely complete masterpiece; the masterpiece may also be the fruits of our precious human lifetime, of which each moment, one cast unto Life Herself, is another spot of ink on the endless canvas.
+
+All that is left now, is to keep doing exactly what I've been doing, but in a more publicly-available space. I hope my work is enjoyable, albeit long-winded :-)
+
+---
 ### Thursday, February 29th, 2024
 #### Time: 5:08pm PST
 
