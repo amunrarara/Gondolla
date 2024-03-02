@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Site Updates.md",
+                "file": "Welcome to Gondōlla.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Site Updates.md",
+                "file": "Welcome to Gondōlla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Site Updates.md",
+                "file": "Welcome to Gondōlla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Site Updates.md"
+                "file": "Welcome to Gondōlla.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "c9b09689831b48c4",
   "lastOpenFiles": [
+    "Site Updates.md",
     "Welcome to Gondōlla.md",
     "Non-Gondōllan Stories/VioletStarlight.md",
     "Non-Gondōllan Stories/violet-girl.png",
@@ -170,7 +171,6 @@
     "Journals and Thoughts/Untitled.md",
     "Journals and Thoughts/Untitled 2.md",
     "Journals and Thoughts/Untitled 1.md",
-    "Site Updates.md",
     "Poetry/Sea Haven.md",
     "Journals and Thoughts/2019-01-00 - Vista Prime - Themes.md",
     "Journals and Thoughts/2018-01-00.md",

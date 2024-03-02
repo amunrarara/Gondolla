@@ -11,9 +11,9 @@ Due to the nature of my mind, I find it necessary to release my work as-is, and 
 
 I hope you enjoy reading it as thoroughly as I have creating it. Please mind the mess.
 
-> *You can see my day-by-day additions and changes, and read more about my thinking process regarding this work, in [[Site Updates]].
+> *You can see my day-by-day additions and changes, and read more about my thinking process regarding this work, in [[Site Updates]].*
 > 
-> There, you can also find a link to my GitHub repository that contains the full record of changes made to this Vault.*
+> *There, you can also find a link to my GitHub repository that contains the full record of changes made to this Vault.*
 
 ---
 ### Peoples
