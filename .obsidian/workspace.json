@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to Gondōlla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6120d7682b92148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Site Updates.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +160,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f6120d7682b92148",
+  "active": "c9b09689831b48c4",
   "lastOpenFiles": [
+    "Welcome to Gondōlla.md",
+    "Non-Gondōllan Stories/VioletStarlight.md",
+    "Non-Gondōllan Stories/violet-girl.png",
+    "Non-Gondōllan Stories/WalkingInTheWorldsOfMyFantasy.md",
+    "Non-Gondōllan Stories/gandalf-moria-door.jpeg",
+    "Journals and Thoughts/Untitled.md",
+    "Journals and Thoughts/Untitled 2.md",
+    "Journals and Thoughts/Untitled 1.md",
+    "Site Updates.md",
     "Poetry/Sea Haven.md",
     "Journals and Thoughts/2019-01-00 - Vista Prime - Themes.md",
     "Journals and Thoughts/2018-01-00.md",
@@ -190,15 +187,10 @@
     "Journals and Thoughts/2018-01-18 - AF Vg.md",
     "Journals and Thoughts/2019-02-00 - Vista Prime - Character Personalities.md",
     "Journals and Thoughts/2019-02-00 - Vista Prime - Act 1 Sequence 1.md",
-    "Site Updates.md",
     "README.md",
     "2023-11-24 - Vista Prime.md",
     "Journals and Thoughts/2024-01-24 AF Vg.md",
     "Journals and Thoughts/2023-11-14 - Run.md",
-    "Journals and Thoughts/2023-11-14 - Data Crash.md",
-    "Journals and Thoughts/2023-11-14.md",
-    "Journals and Thoughts/2019-04-13 - AF Vg.md",
-    "Journals and Thoughts/2019-02-27 - Research, Notes, Beyond.md",
     "Journals and Thoughts/2019-02-27 Media/6128669210_e04bf021a2_silicon-chip.jpg",
     "Journals and Thoughts/2019-02-27 Media/350px-Chemical_synapse_schema_cropped.jpg",
     "Journals and Thoughts/2019-02-27 Media/250px-Anatomy_of_a_Neuron_with_Synapse.png",
@@ -207,11 +199,7 @@
     "Journals and Thoughts/2019-02-27 Media/conLabBrain_03_before.jpg",
     "Journals and Thoughts/2019-02-27 Media/download.jpg",
     "Journals and Thoughts/2019-02-27 Media/D15dtiB.jpg",
-    "Journals and Thoughts/2019-02-27 Media/220px-Forest_of_synthetic_pyramidal_dendrites_grow.png",
-    "Journals and Thoughts/2019-02-27 Media/220px-Neural_network_example.png",
-    "Journals and Thoughts/2019-02-27 - Vista Prime - First Person Account.md",
     "Journals and Thoughts/2019-02-27 Media",
-    "Journals and Thoughts/Untitled 2.md",
     "Non-Gondōllan Stories/_WorksInProgress",
     "Non-Gondōllan Stories",
     "Media, Images, and Visualizations/Archive.zip",
