@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "b98bfdb4a0ddbde3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c9b09689831b48c4",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "Welcome to Gondōlla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "Welcome to Gondōlla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "Welcome to Gondōlla.md"
               }
             }
           }
@@ -184,10 +172,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b98bfdb4a0ddbde3",
+  "active": "fcfa502c5a99607e",
   "lastOpenFiles": [
-    "Welcome to Gondōlla.md",
+    "README.md",
     "README.md.md",
+    "Welcome to Gondōlla.md",
     "Site Updates.md",
     "Journals and Thoughts/2022-02-07 - AF Vg.md",
     "Journals and Thoughts/2022-03-12 - AF Vg.md",
@@ -213,7 +202,6 @@
     "Non-Gondōllan Stories/gandalf-moria-door.jpeg",
     "Non-Gondōllan Stories/violet-girl.png",
     "Non-Gondōllan Stories/TheSongOfTheHighAbove.md",
-    "Non-Gondōllan Stories/MeatAndPotatoesAndSelfAbuse.md",
     "Non-Gondōllan Stories/birds-in-flight.png",
     "Non-Gondōllan Stories/man-eating.png",
     "Media, Images, and Visualizations/mafu-and-ani.png",
