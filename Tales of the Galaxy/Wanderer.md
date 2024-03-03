@@ -1,5 +1,6 @@
 > Tags: #rough-draft
 > Links: [[The Echoes]] [[The Adáni]] [[The Wayfarers]]
+> Source: [[2022-12-13]]
 
 
 *The Wanderers carry our ancient way, 
@@ -15,18 +16,18 @@ But in their hearts, the Truth ever shines.*
 
 Our leaders think they are a crazy, unintelligent people, continuing to profess and refine a realm of fantasy which has so little value to our desert lives; that these wanderers really believe what they say, only to cope with the terrors and agony of living in this world that is become destitute and estranged from celestial life. 
 
-I do not believe them, who deny the Wandering Way, for I see in their hearts that they bleed every day; they cast judgements unjust, words unloving, do things unbecoming of their characters in the folly of their grief. Yet never have I met a Wanderer with dirt upon their souls, though dirt clings so readily to their feet and threadbare robes. They posess voices of sweetness, though hoarse from the desert wind, and they seem to have  a glow about their skin, though darkened by hard years in the sun. 
+I do not believe them, who deny the Wandering Way, for I see in their hearts that they bleed every day; they cast judgements unjust, words unloving, do things unbecoming of their characters in the folly of their grief. Yet never have I met a Wanderer with dirt upon their souls, though dirt clings so readily to their feet and threadbare robes. They possess voices of sweetness, though hoarse from the desert wind, and they seem to have  a glow about their skin, though darkened by hard years in the sun. 
 
-Maybe I will take up the Wandering Way, if one of their order would take me with them. I know not where they go when they cross over the horizon, west or east, but I rarely have seen the same twice, except Abu nam Sabba, who comes to us when the moon is full, without fail.
+Maybe I will take up the Wandering Way, if one of their order would take me with them. I know not where they go when they cross over the horizon, west or east, but I rarely have seen the same twice, except Abunam Sabba, who comes to us when the moon is full, without fail.
 
-He mande my father so angry on his last visit to the village, when he spoke so confidently of the dealings with the Echoes in the farthest reaches of Gondölla. 
+He made my father so angry on his last visit to the village, when he spoke so confidently of the dealings with the Echoes in the farthest reaches of Gondölla. 
 "There is none alive with such knowledge," said my father. 
 
 "But there is," replied Sabba, "and many also who are not alive. We have seen them on many worlds, and have spoken to them of their travels across the stars." 
 
-"You are a liar, and a swindler," spat my father in rage, and forced him out of our house on a summer's eve. Still, Sabba returns to our village, though only to its edge now, where the water spout and market stand, since many of our village have treated him so. No matter when he sees me, though, he treats me with kindness, and respect, and never speaks ill of anybody.
+"You are a liar, and a swindler," spat my father in rage, and forced him out of our house on a midsummer's eve. Still, Sabba returns to our village, though only to its edge now, where the water spout and market stand, since many of our village have treated him so. No matter when he sees me, though, he treats me with kindness, and respect, and never speaks ill of anybody.
 
-"Words said in disdain caus the spirit endless pain," Sabba said, "and prevent progress on the Path. None can cross the bridges we travel who bear such a sickness of soul, for it pulls the spirit back to a place as sure as the anchors of old when we rode upon the water that spilled over these valleys of sand." 
+"Words said in disdain cause the spirit endless pain," Sabba said. "They prevent progress on the Path. None can cross the bridges we travel who bear such a sickness of soul, for it pulls the spirit back to a place as sure as the anchors of old when we rode upon the water that spilled over these valleys of sand." 
 
 Sabba said to me, once, "I think you are one of the few in this world which have a heart that is clear enough to withstand the Doors of Night and make the Walk Between Worlds. I see your knowledge, though seed yet be unblossomed, and I think your curious mind could be sated on this Path. Please consider my words as an invitation; I will take you on a wander, whenever you are ready."
 

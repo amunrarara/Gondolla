@@ -1,4 +1,4 @@
-[[robot-talking.png]]
+![[robot-talking.png]]
 
 On a platform high in the clouds, a city floated populated by robots. The robots had no knowledge of their origins, and thus made up all sorts of odd fantasies regarding their history, exchanging one idea for another depending on the trends of the time. The city stayed afloat and powered by technological wonders that humanity will someday utilize on a massive scale, unimportant to mention here. Why, in a science fiction story would the technology be unimportant to discuss, you might ask. Because this story is about something different than technological wonder, and you will see what it is about in the coming pages.
 

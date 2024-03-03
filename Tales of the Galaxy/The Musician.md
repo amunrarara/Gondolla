@@ -1,4 +1,4 @@
-[[mafu-and-ani.png]]
+![[mafu-and-ani.png]]
 
 Just as Ani was about to step away, the musician recognized the emblem stitched upon the scribe’s collar, and then noticed the device hanging from a strap at his hip.
 
