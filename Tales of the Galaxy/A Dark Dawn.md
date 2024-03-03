@@ -1,0 +1,15 @@
+> From [[2024-02-23 - Scribes]]
+
+"You may speak of peace, while I may speak of toil. You know joy, I know pain. Our worlds are vastly different; there is no way for you to know the suffering I have experienced. You travel through our villages throwing coins with smiles at us, thinking we return your joys. But you do not know what my people have lost because of the leaders of your people. To us has been the greatest of sins upon life committed to another. Our race, our religion, our ideologies, our families, have all been raped or murdered, our ideals considered worthless and outlawed from our upholding them; when we choose to do anything in lands that were our own for time before your ancient records, we are watched, condemned, imprisoned or stolen from with your rules, and every border which we share with your nations are watched, hunted, our people captured or slain, and those lucky few who are chosen to leave, to the Academy or to the brothels of your wealthiest urchin leaders, will have to walk a line between prejudice and avarice which none can walk with dignity. Your group, who is here, may be joyful, young spirits, in zenith of their youth, enjoying pleasures available in every corner of the world, and that is a beautiful thing to behold, but your joys fall like sunrays on bitter and lifeless soil, trampled long ago to death by your fathers and kin. The soul of my people is ruined, and now we need our peace to recover."
+
+Aéia looked round, chills in their spine, the color from the once-bright world depleted and drab, the joy they once felt turned to ash on their tongue. To the left, and to the right, their group has grown silent.
+
+"We did not mean to offend," said Héio, with a broken voice.
+
+"But offend you have," responded Guéija, "though I know it was not your intention."
+
+A long silence was broken by Aéia. "Do you think us in danger, here?"
+
+Guéija suddenly screamed with laughter, broken teeth throwing moist droplets of spittle onto the faces of the unlucky ones standing directly in front of him.
+
+"You are a funny child! There is no danger for you here. If we were to harm you, our village would be burned before tomorrow's sun rises. Our elders would be hung from their feet by our shrines, and your parents would gain rights to our lands until twenty generations have passed. You are safe because your people are terrifying, and we are broken by their power. Your days are your own while on Heíama lands, but your people are not welcome here."

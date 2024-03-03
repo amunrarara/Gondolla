@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-02-15 - Echoes, Scribes.md",
+                "file": "Journals and Thoughts/2024/2024-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-02-15 - Echoes, Scribes.md",
+                "file": "Journals and Thoughts/2024/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-02-15 - Echoes, Scribes.md",
+                "file": "Journals and Thoughts/2024/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-02-15 - Echoes, Scribes.md"
+                "file": "Journals and Thoughts/2024/2024-01-09.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,33 +161,33 @@
   },
   "active": "73d3bef4294e88d2",
   "lastOpenFiles": [
-    "Journals and Thoughts/2024/2024-02-13 - Scribes.md",
-    "Journals and Thoughts/2024/2024-02-12 - Scribe, Echoes.md",
+    "Journals and Thoughts/2024/2024-01-16.md",
+    "Journals and Thoughts/2024/2024-01-19.md",
+    "Journals and Thoughts/2024/2024-01-24.md",
+    "Journals and Thoughts/2024/2024-01-25 - Echoes.md",
+    "Journals and Thoughts/2024/2024-01-26 - Adani.md",
     "Journals and Thoughts/2024/2024-01-26 - Programming Language.md",
     "Journals and Thoughts/2024/2024-01-27 - Echoes.md",
-    "Journals and Thoughts/2024/2024-01-26 - Adani.md",
-    "Journals and Thoughts/2024/2024-01-25 - Echoes.md",
-    "Journals and Thoughts/2024/2024-01-24.md",
-    "Journals and Thoughts/2024/2024-01-19.md",
-    "Journals and Thoughts/2024/2024-01-16.md",
-    "Journals and Thoughts/2024/2024-01-09.md",
-    "Journals and Thoughts/2024/2024-02-28 - Gondolla Begins.md",
-    "Journals and Thoughts/2024/2024-02-24 - Echoes.md",
-    "Journals and Thoughts/2024/2024-02-23 - Scribes.md",
-    "Journals and Thoughts/2024/2024-02-16 - Gatekeeper.md",
-    "Journals and Thoughts/2024/2024-02-16 - Electric Eye.md",
-    "Journals and Thoughts/2024/2024-02-15 - Echoes, Scribes.md",
-    "Journals and Thoughts/2024/2024-02-10 - Echoes.md",
-    "Journals and Thoughts/2024/2024-02-28 - Hunters.md",
     "Journals and Thoughts/2024/2024-02-07.md",
+    "Journals and Thoughts/2024/2024-02-10 - Echoes.md",
+    "Tales of the Galaxy/Hunters.md",
+    "Journals and Thoughts/2024/2024-02-28 - Hunters.md",
+    "Tales of the Galaxy/The Echoes Explain The Wayfarers.md",
+    "Journals and Thoughts/2024/2024-02-12 - Scribe, Echoes.md",
+    "Journals and Thoughts/2024/2024-02-13 - Scribes.md",
+    "Journals and Thoughts/2024/2024-02-16 - Electric Eye.md",
+    "Journals and Thoughts/2024/2024-02-16 - Gatekeeper.md",
+    "Journals and Thoughts/2024/2024-02-23 - Scribes.md",
+    "Journals and Thoughts/2024/2024-02-24 - Echoes.md",
+    "Journals and Thoughts/2024/2024-02-28 - Gondolla Begins.md",
+    "Tales of the Galaxy/A Game of Gates - Students.md",
+    "Journals and Thoughts/2024/2024-02-15 - Echoes, Scribes.md",
+    "Tales of the Galaxy/A Dark Dawn.md",
+    "Tales of the Galaxy/Hunter.md",
+    "Journals and Thoughts/2024/2024-01-09.md",
     "Peoples of Gondölla/The Adáni.md",
     "Journals and Thoughts/2022/2022-01-24 AF Vg.md",
-    "Journals and Thoughts/2023/2023-12-24.md",
     "Journals and Thoughts/2024",
-    "Journals and Thoughts/2023/2023-12-19.md",
-    "Journals and Thoughts/2023/2023-12-17.md",
-    "Tales of the Galaxy/Tale of the Starwalkers, aka Walk Between Worlds.md",
-    "Tales of the Galaxy/Teacher to Student, The Tribe Must Go On.md",
     "Journals and Thoughts/2023",
     "Journals and Thoughts/2022",
     "Journals and Thoughts/2021",

@@ -1,0 +1,23 @@
+> From [[2024-02-13 - Scribes]]
+
+"Would you like to play a game of Gates?"
+
+"Sorry, I left all my pieces in my room."
+
+"That's okay, I have plenty for the both of us. What should we try to achieve?"
+
+"I'm already doing Gates every day for classes with Teacher Hameia, I don't think it's very fun."
+
+"Come on! We can make it fun. I know a place in the field where there's a logic puzzle with a real bit of magic waiting to activate. I'll show you."
+
+They went out to the fields beside the Academy, and stood beside an old statue. It was pollock-marked with bits of rusted copper to denote the stars. Meimei started wiping off the copper, exposing shining metal underneath.
+
+"There's a sequence I read about in the record of an old student. They discovered that pulsing Acrio three times, followed by Mongomia seven times, over and over again, will reveal some sort of secret. Let's try it."
+
+Meimei checked the source for a current, but found none. "Hmm... we'll need to use a battery." She pulled out a slender, squarish battery, stuck several wires into it, and rested it on the ground. 
+
+"I have a few repeaters here that we'll need to wire into a sequencer. To build the sequencer, I have a few of these switches that will do just the trick."
+
+She began twisting wires round tiny transistors until a webwork emerged. Then, touching one wire to the copper point representing the star Acrio, another the star Mongomia, she powered on the battery.
+
+Rapidly, the webwork sprung to life; her transistors were crowned with lights, causing the web to shimmer with life. Each pulse on the starry field caused a ripple of light to carry over the statue. After five seconds, a quiet but prominent rumble shook the ground, subtly, somewhere in the deep, beneath them. 
