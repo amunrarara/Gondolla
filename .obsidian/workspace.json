@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "062ab1495f7128b7",
+        "id": "935f7efb705944fa",
         "type": "tabs",
         "children": [
           {
-            "id": "b04c59d3ab8f09a0",
+            "id": "ad44dc53de9ebea2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals and Thoughts/2024/2024-01-26 - Adani.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d3bef4294e88d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals and Thoughts/2024/2024-01-09.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journals and Thoughts/2024/2024-01-09.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +139,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "73d3bef4294e88d2",
+  "active": "ad44dc53de9ebea2",
   "lastOpenFiles": [
+    "Peoples of Gondölla/Peoples of Gondōlla.md",
+    "Peoples of Gondölla/The Adáni.md",
+    "Journals and Thoughts/2024/2024-01-26 - Adani.md",
+    "Forces of the Cosmos/Shaddāh.md",
+    "Peoples of Gondölla/The Mirórin.md",
+    "Peoples of Gondölla/The Twíi Lii.md",
+    "Journals and Thoughts/2023/2023-12-19.md",
+    "Journals and Thoughts/2023/2023-11-29 - Echoes, Twii Lii, Wayfarers.md",
+    "Journals and Thoughts/2023/2023-12-13.md",
+    "Journals and Thoughts/2015 - 2018/2018-01-00.md",
+    "Journals and Thoughts/2023/2023-04-15.md",
+    "Journals and Thoughts/2024/2024-01-09.md",
     "Journals and Thoughts/2024/2024-01-16.md",
     "Journals and Thoughts/2024/2024-01-19.md",
     "Journals and Thoughts/2024/2024-01-24.md",
     "Journals and Thoughts/2024/2024-01-25 - Echoes.md",
-    "Journals and Thoughts/2024/2024-01-26 - Adani.md",
     "Journals and Thoughts/2024/2024-01-26 - Programming Language.md",
     "Journals and Thoughts/2024/2024-01-27 - Echoes.md",
     "Journals and Thoughts/2024/2024-02-07.md",
@@ -176,17 +167,6 @@
     "Journals and Thoughts/2024/2024-02-12 - Scribe, Echoes.md",
     "Journals and Thoughts/2024/2024-02-13 - Scribes.md",
     "Journals and Thoughts/2024/2024-02-16 - Electric Eye.md",
-    "Journals and Thoughts/2024/2024-02-16 - Gatekeeper.md",
-    "Journals and Thoughts/2024/2024-02-23 - Scribes.md",
-    "Journals and Thoughts/2024/2024-02-24 - Echoes.md",
-    "Journals and Thoughts/2024/2024-02-28 - Gondolla Begins.md",
-    "Tales of the Galaxy/A Game of Gates - Students.md",
-    "Journals and Thoughts/2024/2024-02-15 - Echoes, Scribes.md",
-    "Tales of the Galaxy/A Dark Dawn.md",
-    "Tales of the Galaxy/Hunter.md",
-    "Journals and Thoughts/2024/2024-01-09.md",
-    "Peoples of Gondölla/The Adáni.md",
-    "Journals and Thoughts/2022/2022-01-24 AF Vg.md",
     "Journals and Thoughts/2024",
     "Journals and Thoughts/2023",
     "Journals and Thoughts/2022",
