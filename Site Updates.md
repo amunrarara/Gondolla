@@ -5,6 +5,22 @@
 > *Want to see realtime changelogs that show exactly what's changed, and when? Visit the Github repository and check my commit history. Better, less-techy systems coming in the future, for now that's what I got!* https://github.com/amunrarara/gondolla
 
 --- 
+### Tuesday, March 5th, 2024
+#### 5:25am
+
+This week has been indescribably empowering for my feeling of self worth. What an absolute treasure of my own making, right beneath my nose, for so many years. I have known the personal value of my works, the subjective beauty in their chaos, unkempt and delicious with treasures of mind spread on paper across a decade of activity (and more to come from my earlier works, as I discover them). 
+
+But, to recover them en-masse, and finally properly digitize them, *that* has been a magnamous feeling, for me.
+
+As of today, I have recovered what I believe to be about 1,000 total pages of writing, drawings, maps, and much, much more. I have several works contained in my journals, with a very large measure of my work devoted to Gondōlla, which will be published and available steadily through the coming weeks. 
+
+In addition to Gondōllan works, there are many-numbered examples of my Asemic writing script, which I have called by many names. There are snippets of ideas, outpourings of creativity in various channels of thought, calligraphy in Asemic, English, and Elvish (Quenya, Sindarin, and English-mode Tengwar), Dungeons and Dragons session notes and campaign materials... It's really all there. 
+
+It just shows me more deeply how damn enriching my life has been up until this point, and beyond. I sit upon a goldmine of my own creation. I see its roughness, its raw Spirit, and look to whom I have become in these years, and I feel proud for myself and my inner accomplishments. It is easy to lose track of one's own greatness... Not in the sense of "I'm greater than everyone else", because Lord knows *that's* an illusion, but a greatness of Self, that only I can answer to, that allows me to day, "each day, I am Acea, and each day, I transform; at times, I will be better than who I was yesterday; at times, I will be worse. But always, I will be Acea, and I shall love myself all the while."
+
+
+
+---
 ### Saturday, March 2nd, 2024
 #### 12:55pm PST
 

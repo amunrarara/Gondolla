@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "935f7efb705944fa",
+        "id": "b954976c5a61bcf3",
         "type": "tabs",
         "children": [
           {
-            "id": "ad44dc53de9ebea2",
+            "id": "c9d8bb0f7b2d815e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Site Updates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Site Updates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Site Updates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Site Updates.md"
               }
             }
           }
@@ -147,8 +147,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ad44dc53de9ebea2",
+  "active": "c9d8bb0f7b2d815e",
   "lastOpenFiles": [
+    "README.md",
+    "Non-Gondōllan Stories/_Ignore_This_Folder_/Journal Template.md",
+    "Site Updates.md",
+    "Journals and Thoughts/2024/2024-03-05.md",
+    "Journals and Thoughts/2024/2024-03-04.md",
     "Peoples of Gondölla/Peoples of Gondōlla.md",
     "Peoples of Gondölla/The Adáni.md",
     "Journals and Thoughts/2024/2024-01-26 - Adani.md",
@@ -170,11 +175,6 @@
     "Journals and Thoughts/2024/2024-02-07.md",
     "Journals and Thoughts/2024/2024-02-10 - Echoes.md",
     "Tales of the Galaxy/Hunters.md",
-    "Journals and Thoughts/2024/2024-02-28 - Hunters.md",
-    "Tales of the Galaxy/The Echoes Explain The Wayfarers.md",
-    "Journals and Thoughts/2024/2024-02-12 - Scribe, Echoes.md",
-    "Journals and Thoughts/2024/2024-02-13 - Scribes.md",
-    "Journals and Thoughts/2024/2024-02-16 - Electric Eye.md",
     "Journals and Thoughts/2024",
     "Journals and Thoughts/2023",
     "Journals and Thoughts/2022",
@@ -193,7 +193,7 @@
     "Journals and Thoughts/2019/2019-02-27 Media/conLabBrain_03_before.jpg",
     "Journals and Thoughts/2019/2019-02-27 Media/download.jpg",
     "Journals and Thoughts/2019/2019-02-27 Media",
-    "Non-Gondōllan Stories/_WorksInProgress",
+    "Non-Gondōllan Stories/_Ignore_This_Folder_",
     "Non-Gondōllan Stories"
   ]
 }
