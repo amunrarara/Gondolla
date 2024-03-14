@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Journals and Thoughts/2024/2024-03-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Journals and Thoughts/2024/2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Journals and Thoughts/2024/2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Journals and Thoughts/2024/2024-03-13.md"
               }
             }
+          },
+          {
+            "id": "f1bcc4723a8da14f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,11 +158,13 @@
   },
   "active": "c9d8bb0f7b2d815e",
   "lastOpenFiles": [
+    "Journals and Thoughts/2024/2024-03-05.md",
+    "Journals and Thoughts/2024/2024-03-13.md",
+    "Journals and Thoughts/2024/2024-03-14.md",
+    "README.md",
     "Welcome to Gondōlla.md",
     "Site Updates.md",
-    "README.md",
     "Non-Gondōllan Stories/_Ignore_This_Folder_/Journal Template.md",
-    "Journals and Thoughts/2024/2024-03-05.md",
     "Journals and Thoughts/2024/2024-03-04.md",
     "Peoples of Gondölla/Peoples of Gondōlla.md",
     "Peoples of Gondölla/The Adáni.md",
@@ -174,8 +184,6 @@
     "Journals and Thoughts/2024/2024-01-25 - Echoes.md",
     "Journals and Thoughts/2024/2024-01-26 - Programming Language.md",
     "Journals and Thoughts/2024/2024-01-27 - Echoes.md",
-    "Journals and Thoughts/2024/2024-02-07.md",
-    "Journals and Thoughts/2024/2024-02-10 - Echoes.md",
     "Journals and Thoughts/2024",
     "Journals and Thoughts/2023",
     "Journals and Thoughts/2022",
