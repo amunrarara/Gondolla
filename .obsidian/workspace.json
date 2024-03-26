@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18767e5810c804c6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c9d8bb0f7b2d815e",
+  "active": "18767e5810c804c6",
   "lastOpenFiles": [
     "Journals and Thoughts/2024/2024-03-05.md",
     "Journals and Thoughts/2024/2024-03-13.md",
