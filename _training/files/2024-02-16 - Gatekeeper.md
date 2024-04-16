@@ -1,0 +1,7 @@
+The role of "Gatekeeper" is of importance in the scribal world, where a person, a document, an LLM, an instructional video, or just the very act of study upon the construct itself, will "pass the knowledge" to the studious programmer. A construct can be a library, program, language, methodology, or quite certainly, *anything*. Imparting strong, working knowledge of the construct is the role and responsibility of the Gatekeeper. 
+
+When a Programmer holds the title of Gatekeeper, for any construct which they are responsible for describing, the intended outcome is for the student to reach a functional state which both Gatekeeper and Student have agreed upon; "the ability to create a Plug in Elixir/Phoenix and successfully merge a PR" is an outstanding goal for Gatekeeper and Student to embark upon.
+
+More often than not, the Gatekeeper in today's programming discipline be a role dictated by the Student, for the Student. The Codex could be a single chapter of documentation, could be a few lines of code tried, deleted, then tried again, could be a tutorial video with several relevant timestamps, a question/response thread between the Student and another Scribe; each, and all, of these form the Codex of the task.
+
+The Codex represents the materials of knowledge which are collected throughout the study of the Construct, which aid in achieving the goal set forth by Student and Gatekeeper. 

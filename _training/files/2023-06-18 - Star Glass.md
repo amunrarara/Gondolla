@@ -1,0 +1,49 @@
+I return to a body of tales which is centered upon a necropolis built over unnumbered generations, beside and beneath a city. Thiss inspiration came from learning more about the city of Alexandria, when I was there with my beautiful wife. I think we were in Los Angeles? The inspiration was the union of Egyptian and Greek cultures, in a way previously unseen, where in the Egyptian would be transformed by the Greek. Such a force of cultural transformation is commonplace in this world, and requires a great sense of nuance to detect, it seems, but to the trained eye, cultures can mix like the colors of paint, bearing ever-new forms. 
+So, my etermal attempt to place computers *scribally* into ancient culture is alive in this story, inspiring an ancient people with the technologies we today posess, but such is a tricky operation, for the technologies we now posess are the result of geneations upon generations of evolution of thought, sciences, and innovations, which have some emergent moments of rapid transformation, but follow an upward trend. 
+I could, for example, pull a Last Mimzy and enclose a computer, rich in knowledge, into a machine that travels thru time to the past and acts as a teacher to the people of the past. I explored this once, actually, in think I called the story **The Scribes of Starglass**, and set the exploration to the time of Akhenaton, and used the conflicts with the Priests of Amun as a backgroup for this rift in culture, which resulted from the introduction of a repository of informatinofalling from the sky. 
+"*Though I know a future for you and your people, that future has been irrevocbly changed. But the mysteries of time still have innumerable secrets to reveal, perhaps, and I know not what remains in Time's endless march for you, now that the stars of tomorrow have fallen to the Earth and knowledge of your children's chiildren is given to their forebears. It may pass that the events of your life will continue, unaltered from this record I posess, so listen on, and know what I tell you is but the wisdom of another world, this world you must make your own*." - from Tomorrow Star, a Starglass (but I am thinking, could also be the words of an Echo)
+
+If these were the words of an Echo, then, I am inspired to believe that the events could move somewhat as such: 
+- Fall of the Tomorrow Stars
+- Deciphering of the Starglass Records
+- Development of Society
+- Creation of the Echoes
+- Destruction of the world, again, by the hand of this people
+- Echoes return again to the past, or rather an alternate timeline, right about the same time
+- Echoes involve themselves in the activities of the people
+
+This would give a catalyst for technoligical revolution over time that could bring a furthering of the ancient cultures into a technologically surpassing era. I could explore many themes, then, of interest to me. 
+
+"*I know the records, and it seems to me that the mistakes of our children's children have caused the spirits of their past to remain over-past their time of death and evolution; that we, the Alexandrians, are advanced in ways they could never have imagined we could become, that our society has flowered out beyond the atmosphere, and takes root in the stars, spreading out across the planets and making hives like bees on other worlds. BUt all of this rivals not when compared to the changing waters of the inner life of thought, which I feel has been seized and bears only more of the same. I fear we have missed our holden oppoerunity to escape the circles of this world of matter, to evolve into beings capable of living in a world of expanded activity, a birthright we have lost with the falling of tomorrow's stars*"
+
+This finctional setting then opens the door for many of my creative tales, and can also create a sort of bffer for Gondölla to live of its own, but may also provide the bridge by which Gondölla makes way into my more Earthly stories, and may also give the ability for my myths to live as a story in the world instead of a full narrative truth. 
+
+From here can come the Echoes, now.
+
+---
+**Inspired by Faith's dream**
+The tribe departed the city as the final sheets of metal were raised upon the pyramid that had taken the lives of so many of their children and men. Bitter sadness filled the travelers as their caravan departed, one by one, between arches of glass, wherein their numbers were countered and recorded by electric eyes unseen.
+A grandmother, looking o er her daughter, without husbands for the sins of the foreman, with child; beside them, her eldest daughter rode, face bearing the first of many markings that bear symbol of her growth into a young woman; not ready to bear child, but ready to enter the circles of youth. 
+Departing the city that their ancestors shed blood and tears to build the foundations of, they followed their leaders out to the great expanse, to start their lives anew; a wandering people, who followed the North Star.
+
+---
+
+Phases of time in the story are of interest; it's not necessary to be firmly rooted in a given timeline if it tells the tale. If the exploration is of time, then there is great freedom to enter and exit certain timelines of story. What does this want to be? I think there is great freedom at my fingertips to dip in and out of timelines and explore the implications of the technologies introduced unto these peoples, the sorts of questions that the people must contend with, the grip of transformation happening rapidly within their own lifetimes. 
+Writing is an interesting beast. I really have to lean in and will myself to create. 
+
+The movement of peoples; the forced labors, the joys of life available to the few. It was a time of change and transformation. 
+
+There are many stories to tell. 
+
+---
+
+My father was on skirmish in the deserts beside our town, looking for bandits who had taken up camp on the nearby road to the sea. They were causing trouble for all that traveled between the Nile and the sea, forcing tithes and roughing up any who refused them. Some had reported their cargos stolen, "payment for the Pharaoh's protection" they would say, which we know is a boorish statement to make, our benevolent Pharaoh does not harm his people so. It could not be allowed to continue.
+Out they rode from the town fort on the orders of the Pharaoh, to clear the way between river and sea, and secure the road for safe passage. 
+They stayed for a night at the first rock cropping, which gave a view far into the desert. During the dark hours, not a light could be seen among hills of sand, and my father rested on his back, looking to the skies and counting the stars. The Gods would smile on him that night, for he says that he saw a great shimmer across the sky as many stars were born across all of the constellations. It lit up the sky, he told me, so bright that the sands were alive like a green sunrise for just a moment, then the glow disappeared, but the stars remained, moving gently across the skies. None of the other men knew the names of the stars nor could plot their course, and so his eager proclamations of the birth of new stars were not interesting for them. Thus, the night passed sleepless for him, and in the daytime they continued their pursuit of the bandits, making it as far as the farther hill. 
+The skies up above were changed, he had told me, as these new stars had been moving on their own courses. He could swear they grew brighter as the night went on. The others in his company were becoming convinced that he was crazy, and for another night he could not sleep. Thus when the sun arose, and they set out on the road again, he was sleep-starved and crazed. 
+That was when they came upon the bandit camp, which was twenty-seven rough-voiced men weather-worn by weeks in the desert and laden with goods they had pillaged from the passers-by. My father's company was not prepared to meet a camp of this size, but the bandits were not about to openly defy the Pharaoh by killing his soldiers, thus they agreed to disband, turn over their stolen goods, and march back to the city to await Pharaoh's judgement. 
+The soldiers drank and sang songs with the prisoners that night, and became very loose with their tongues. My father was obsessed with the changing sky, and so went for a nighttime walk, far enough to not hear the sounds of such a rough company. With two nights of sleeplessness, it was impossible for him to stay awake very long, and he fell hard-asleep where he sat. 
+It is quite lucky him, for the prisoners had planned this, and ambushed the soldiers while they slept, killing every one of them, except my father who was sleeping far from camp. They dispersed into the night, never to be seen again. When my father awoke, half-dazed and thirsty, he was horrified by what he saw, the murdered company of soldiers that littered the roadside, stripped of their meager supplies and equipment, left to be fed upon by carrion birds. He ran, as fast as he could, back to town. 
+That was the morning that the stars fell. 
+As he ran, he crested the hill where they first made camp, and it was there he saw fire in the sky, and the place where the Tomorrow Star near Sothis struck the sand. He was the only one to see where it struck, though many in the town were awake already and had seen the line of fire, and heard the massive sound of its impact on the sands. 
+He rushed as fast as he could into town, straight to the fort, and reported all that had taken place those past few nights, and thus he was instructed immediately to lead a company of soldiers out to the place where the star had fallen. And thus, my father became one of the first to ever see the Tomorrow Star of Sothis.

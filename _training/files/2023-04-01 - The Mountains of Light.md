@@ -1,0 +1,5 @@
+# The Mountains of Light
+
+Their peak hosts An Alne Aun, The Temple of Aun. Rolling torrents of light shower forth from its foundations, the gift of Aun, and settle in the pools of Aminoun. These fountains are made of the powerful Admatasi, Soul's Atoms, which carry the capacity of assembling light into its various forms. Every being hosts an Admata, and every world is the construct of the Admatasi. 
+
+in the dawn of Eda, Aun created Aminoun, Haranam, and Matana by the pwoer of the Admatari, and set an individual Admata to sustain each, and this pattern was followed to produce new beings of light; an Admata would be set like a seed into the material of creation, and of the pools of Davanad, Manifest Light, and the voice which emenated from Haranam enters in, and Matana's spirits give them form, and when their spirit is complete, the Admata alone can sustain them. 
