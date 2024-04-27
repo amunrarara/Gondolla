@@ -24,9 +24,11 @@
             "id": "18767e5810c804c6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Welcome to Gondōlla.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-03-13.md",
+                "file": "Welcome to Gondōlla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-03-13.md",
+                "file": "Welcome to Gondōlla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-03-13.md"
+                "file": "Welcome to Gondōlla.md"
               }
             }
           },
@@ -169,11 +171,21 @@
   },
   "active": "18767e5810c804c6",
   "lastOpenFiles": [
+    "Non-Gondōllan Stories/I Am Terminal.md",
+    "Welcome to Gondōlla.md",
+    "Media, Images, and Visualizations/TheWayfarer_highres.png",
+    "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
+    "Media, Images, and Visualizations/StudentsOfTheStoneWords_lowres.png",
+    "Media, Images, and Visualizations/robot-talking.png",
+    "Media, Images, and Visualizations/PortalOfTheSunGod_lowres.png",
+    "Media, Images, and Visualizations/mafu-and-ani.png",
+    "Media, Images, and Visualizations/cyberscape.png",
+    "Media, Images, and Visualizations/AcademyOfTheAmun_GreatCities_byAmunPtahKhepera.png",
+    "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
     "Journals and Thoughts/2024/2024-03-05.md",
     "Journals and Thoughts/2024/2024-03-13.md",
     "Journals and Thoughts/2024/2024-03-14.md",
     "README.md",
-    "Welcome to Gondōlla.md",
     "Site Updates.md",
     "Non-Gondōllan Stories/_Ignore_This_Folder_/Journal Template.md",
     "Journals and Thoughts/2024/2024-03-04.md",
@@ -194,7 +206,6 @@
     "Journals and Thoughts/2024/2024-01-24.md",
     "Journals and Thoughts/2024/2024-01-25 - Echoes.md",
     "Journals and Thoughts/2024/2024-01-26 - Programming Language.md",
-    "Journals and Thoughts/2024/2024-01-27 - Echoes.md",
     "Journals and Thoughts/2024",
     "Journals and Thoughts/2023",
     "Journals and Thoughts/2022",
@@ -202,16 +213,7 @@
     "Journals and Thoughts/2019",
     "Journals and Thoughts/2015 - 2018",
     "Non-Gondōllan Stories/birds-in-flight.png",
-    "Non-Gondōllan Stories/violet-girl.png",
-    "Non-Gondōllan Stories/gandalf-moria-door.jpeg",
     "Poetry",
-    "Journals and Thoughts/2019/2019-02-27 Media/6128669210_e04bf021a2_silicon-chip.jpg",
-    "Journals and Thoughts/2019/2019-02-27 Media/350px-Chemical_synapse_schema_cropped.jpg",
-    "Journals and Thoughts/2019/2019-02-27 Media/250px-Anatomy_of_a_Neuron_with_Synapse.png",
-    "Journals and Thoughts/2019/2019-02-27 Media/Blausen_0657_MultipolarNeuron.png",
-    "Journals and Thoughts/2019/2019-02-27 Media/300px-SOCyberntics.png",
-    "Journals and Thoughts/2019/2019-02-27 Media/conLabBrain_03_before.jpg",
-    "Journals and Thoughts/2019/2019-02-27 Media/download.jpg",
     "Journals and Thoughts/2019/2019-02-27 Media",
     "Non-Gondōllan Stories/_Ignore_This_Folder_",
     "Non-Gondōllan Stories"

@@ -1,4 +1,7 @@
-##### Authored by Acea Spades Imboden-Black
+![[TheWayfarer_highres.png]]
+
+##### Inscribed by Acea Spades
+https://aceaspades.com
 
 ## *Hearken ye, Spirit who Walks Between the Worlds!*
 
