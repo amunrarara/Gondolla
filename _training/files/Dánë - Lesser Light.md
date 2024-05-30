@@ -1,1 +1,0 @@
-Realm of The Vandréi, the Realm of Light which is between [[Ëdān - Greater Light]] and [[Gōndë - Land of Light and Shadow]]. 

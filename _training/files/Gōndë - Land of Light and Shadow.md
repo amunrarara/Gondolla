@@ -1,1 +1,0 @@
-Realm of The Ádane, the central point in the cosmological transformation between Light and Shadow. The Realm closest to [[Shaddāh - The Shadow]]
