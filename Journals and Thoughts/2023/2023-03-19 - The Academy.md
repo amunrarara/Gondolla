@@ -1,3 +1,4 @@
+[[The Academy]]
 The structure of schooling at the Academy was of a particular interesting nature. The whole of curriculum pertained to the full knowledge of computers, through from hardware to software. The school was divided among lines.
 
 To one part dwelt the manufacturing arm which dealt with the creation of boards and parts assembled into working machines. There was a great deal of smelting and assembly going on in those corridors. And, those students who learned the power of the microscopic universe, its sciences and languages, worked here.
