@@ -38,24 +38,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-06-13.md",
+                "file": "Journals and Thoughts/2024/2024-07-21.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3dd4d1561e08c12c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-06-13.md",
+                "file": "Journals and Thoughts/2024/2024-07-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-06-13.md",
+                "file": "Journals and Thoughts/2024/2024-07-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-06-13.md"
+                "file": "Journals and Thoughts/2024/2024-07-21.md"
               }
             }
           },
@@ -191,11 +181,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3dd4d1561e08c12c",
+  "active": "d1afa686ee9d492a",
   "lastOpenFiles": [
+    "Journals and Thoughts/2024/2024-06-13.md",
+    "Journals and Thoughts/2024/2024-07-21.md",
+    "Untitled.md",
     "Journals and Thoughts/2024/2024-06-15.md",
     "Journals and Thoughts/2024/2024-06-11.md",
-    "Journals and Thoughts/2024/2024-06-13.md",
     "Journals and Thoughts/2024/2024-06-08 - Ani born in The City of Waterfalls.md",
     "Journals and Thoughts/2019/2019-06-24.md",
     "Journals and Thoughts/2019/2019-01-16 - Vista Prime.md",
@@ -217,8 +209,6 @@
     "Journals and Thoughts/2015 - 2018/2017-12-30.md",
     "Journals and Thoughts/2015 - 2018/2017-01-02.md",
     "Journals and Thoughts/2015 - 2018/2017-01-01.md",
-    "Journals and Thoughts/2015 - 2018/2015-08-19.md",
-    "Journals and Thoughts/2015 - 2018/2015-08-18 - Creation Myth.md",
     "Media, Images, and Visualizations/TheWayfarer_highres.png",
     "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/StudentsOfTheStoneWords_lowres.png",
