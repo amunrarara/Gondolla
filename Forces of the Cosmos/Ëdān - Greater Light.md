@@ -1,1 +1,1 @@
-Realm of The Anávandrei, the Realm of Light closest to [[Ëia - Primordial Light]]. 
+Realm of The Anávandrei, the Realm of Light closest to [[Áeia - Primordial Light]].

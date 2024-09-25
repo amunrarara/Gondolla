@@ -4,44 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b954976c5a61bcf3",
+        "id": "a0b1caa15a17176e",
         "type": "tabs",
         "children": [
           {
-            "id": "c9d8bb0f7b2d815e",
+            "id": "d18d2340bb387308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals and Thoughts/2024/2024-06-09 - Ani 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18767e5810c804c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The City of Waterfalls.md",
+                "file": "Forces of the Cosmos/Gōndë - Land of Light and Shadow.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d1afa686ee9d492a",
+            "id": "518361e8a4fb0fc5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journals and Thoughts/2024/2024-09-23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journals and Thoughts/2024/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journals and Thoughts/2024/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journals and Thoughts/2024/2024-09-23.md"
+              }
             }
           },
           {
@@ -173,34 +168,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d1afa686ee9d492a",
+  "active": "518361e8a4fb0fc5",
   "lastOpenFiles": [
-    "Journals and Thoughts/2024/2024-07-21.md",
-    "Journals and Thoughts/2024/2024-06-13.md",
-    "Untitled.md",
-    "Journals and Thoughts/2024/2024-06-15.md",
-    "Journals and Thoughts/2024/2024-06-11.md",
+    "Outline of the Fictional Universe.md",
+    "Journals and Thoughts/2024/2024-09-23.md",
+    "Welcome to Gondōlla.md",
+    "The Ádane.md",
+    "Forces of the Cosmos/Gōndë - Land of Light and Shadow.md",
+    "Peoples of Gondōlla/The Adáni.md",
+    "Forces of the Cosmos/Forces of the Cosmos.md",
+    "Places in Gondōlla/Ëia.md",
+    "Journals and Thoughts/2024/2024-06-11 - The Academy, The Mekáni.md",
+    "Journals and Thoughts/2024/2024-09-06.md",
+    "Places in Gondōlla/Ëia - Primordial Light.md",
+    "Forces of the Cosmos/Ëdān - Greater Light.md",
+    "Forces of the Cosmos/Dánë - Lesser Light.md",
+    "Forces of the Cosmos/Ádmata.md",
+    "Forces of the Cosmos/The Átma.md",
+    "Languages/Lexicon.md",
+    "Languages/High Adáni - Vocabulary.md",
+    "Languages/High Adáni - Introduction - Languages of Gondōlla.md",
+    "Languages/High Adáni - Grammar.md",
+    "Site Updates.md",
+    "README.md",
+    "Places in Gondōlla/The City of Waterfalls.md",
+    "A.md",
+    "Places in Gondōlla",
     "Journals and Thoughts/2024/2024-06-08 - Ani born in The City of Waterfalls.md",
-    "Journals and Thoughts/2019/2019-06-24.md",
-    "Journals and Thoughts/2019/2019-01-16 - Vista Prime.md",
-    "Journals and Thoughts/2019/2019-01-00 - Vista Prime - Themes.md",
-    "Journals and Thoughts/2019/2019-01-00 - Egyptian Studies.md",
-    "Journals and Thoughts/2015 - 2018/2018-12-29 - Vista Prime - The Eye of RA.md",
-    "Journals and Thoughts/2015 - 2018/2018-05-30 - Rebirth.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-27.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-25.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-21 - AF Vg.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-19 - AF Vg.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-18 - AF Vg.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-16 - AF Vg.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-05.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-04.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-03.md",
-    "Journals and Thoughts/2015 - 2018/2018-01-00 - Creation Myth 2.md",
-    "Journals and Thoughts/2015 - 2018/2017-12-31.md",
-    "Journals and Thoughts/2015 - 2018/2017-12-30.md",
-    "Journals and Thoughts/2015 - 2018/2017-01-02.md",
-    "Journals and Thoughts/2015 - 2018/2017-01-01.md",
+    "Journals and Thoughts/2024/2024-06-09.md",
+    "Journals and Thoughts/2024/2024-06-09 - Ani 2.md",
     "Media, Images, and Visualizations/TheWayfarer_highres.png",
     "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/StudentsOfTheStoneWords_lowres.png",
@@ -219,7 +215,6 @@
     "Non-Gondōllan Stories/birds-in-flight.png",
     "Poetry",
     "Journals and Thoughts/2019/2019-02-27 Media",
-    "Non-Gondōllan Stories/_Ignore_This_Folder_",
-    "Non-Gondōllan Stories"
+    "Non-Gondōllan Stories/_Ignore_This_Folder_"
   ]
 }
