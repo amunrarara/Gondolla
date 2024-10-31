@@ -1,8 +1,14 @@
 ![[TheWayfarer_highres.png]]
 
-##### Inscribed by Acea Spades
+##### Inscribed by Acea Spades 
 https://aceaspades.com
 
+**Enjoying the stories? Support the work by sending cash or BTC Lightning to the author**:
+
+[Venmo](https://venmo.com/u/AceaSpades)
+[BTC Lightning](https://primal.net/p/npub1xzrkzsrnr83vn7h0udq6tnapwpswy5equlrtkn3nu0e0anlmzynqne0qap)
+
+Published works and merchandise, coming soon!
 ## *Hearken ye, Spirit who Walks Between the Worlds!*
 
 ### What is Gondōlla?
@@ -62,3 +68,10 @@ To support some of the stories, I have also created maps, generated images, and 
 ---
 ### My Other Written Works
 It is my intention to publish *all* of my life's written works throughout the next span of life. For now, due to limitations of time, I am containing my other published *non-Gondōllan* stories here in this vault, which will eventually be moved to a separate location. These are contained within ***Non-Gondōllan Stories***. Some are also found within ***Poetry***
+
+
+© 2009 - 2029 - Acea Spades Black. All rights reserved.
+
+This work is protected by copyright and other intellectual property laws. All rights are reserved by the copyright holder. No part of this work may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright holder, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+Any unauthorized use, reproduction, or distribution of this work may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
