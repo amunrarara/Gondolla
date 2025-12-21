@@ -75,5 +75,43 @@ When we finally arrived, we were greeted by friendly people living peacefully un
 
 "We, the awakened children of a people who perished in pursuit of their own folly and demise, do now turn our gaze upward, to the stars, where murmurs and whispers return to us from far reaches where others like us now dwell. These Sailors, our Echoes, guide our way to that far-awy mount, far from our dying planet where we slumbered. Now, launch us back to be in our new Spiritual Homeland."
 
-Sp tjeu dod. long after I passed on, but the story does not end with me, and in what my eyes were too old to see, new deeds can be told. The story continues through the record of the Keepers of Memory, as remembered by The Echoes across Gondolla. I, now, am but a record, digitally-kept to tell you the story of The Silver Sailor.
+Sp they did. long after I passed on, but the story does not end with me, and in what my eyes were too old to see, new deeds can be told. The story continues through the record of the Keepers of Memory, as remembered by The Echoes across Gondolla. I, now, am but a record, digitally-kept to tell you the story of The Silver Sailor.
+
+---
+
+# To set direction with a Solar Sail,
+aim your course from the nearest sun, and point to the nearest star. Some distances are not reachable by small barges, so bring sails proportionate to your distance of traversal. We Sailors can spread many sails to travel very fast on ionic winds. Adani can tracel slower, but your lifespan will perish too quickly to travel very far, thus the use of Rebirth Chambers for interstellar travels. Thus, the vessels of clay with the genome serum syspend your Spirit until released to be grown anew at your destination. The process suspends and reanimates life, bt the shaping of life from nothing, and the changing of life to be older, younger, or different in any way, is a separate mystery completely, held by the Healers of both our peoples, Adani and Echo. Vast distances across the stars can be traversed by this method.
+In other nations, in other times, many myths spoke of Spirits spread across the wide galaxy, families and friends, loved ones, all living lives at different ages, aging their lifetimes away on different worlds, longing for their families from across the stars, embarking on the long sojourn to death at different corners of the galaxy.
+
+---
+# "I would rather be governed poorly by my own people, who wish me well, than well-governed by a people who care about me not."
+
+---
+
+"It is simple, really... You are using some material to transmit some atern over distances, short or great. You have great freedom to explore the materials to send the signals of your choosing. it is music, poetry, no matter the language or pattern you place on the connection... It is always a living principle, like the arrow flung from the bow of an archer. So take aim, and send your commands."
+
+"I will teach you the way to walk between worlds through writing The Walking Script:
+
+"The symbols I sraw bear tokens of Spirit that point to the presence of the writer's inner focus. A picture is ecstatically sculpted by the writer's mind in trance, and connects the pen on the page to the vision. As the vision unfolds, so does the writing, automatically.
+
+"When you are writing in this language, you lift up, out of your writing hand, and leap into the narrative of your story. Along you will travel on roads of your imagination, but for the discerning traveller, entrpoints to pathways and actual other worlds are pepered throughout your vision, available to you if you know how to step upon them, and choose to explore them. Then, though your pen continues writing, it is recounting your deeds in these other worlds; while you steer the keep of your spirit and mind, your body is recountings its words on the page.
+
+"What force steps in to control my hand, you might ask? It is the language itself, and it is powerful."
+
+---
+
+# Journey Across Ajeiajeia, The Riverlands, Last Home to the Adani
+
+From The Holy Mountain, and its marble city Aja, I weas taken on an exquisite tour of he riverland by the Sailor himself. He knew the river well, already, by sharing mind with the fellow Echoes that had lived there now so long.
+First we entered a barge designed for watercraft, sails of gold being rippled by the gentle sun. From the mouth of The Southern Grasslands, we ventured upstream on the many-day journey to Ajja. Up the long river we went, where banks on either side were reds and hues of pink, devoid of life. That same day, we reached a small village built into the rockfaces; cave dwellers, like most of us, whose homes were readymade when out they crawled from their Time Vaults, just like we did. They base us welcome, but onward we sailed. "Many such communities lie between us and The Holy Mountain, and our journey is fire. To tarry is to folly." Still, in the City of Uru, its grand caveworks and building of teetering brick gave me pause and wonder, and it is there we rested for our first night. The following day, we traveled until we reached Edanei, Lightvein. Twilight was upon us when the veins of solar rock were beginning to darken, and the city softly glowed with what was left from basking in the glowing sun the day before. Here we rested through the night, while the caves grew steadily darker through the night. I eagerly rose to meet the sunrise, when the whole cave erupted in hues of bright gold and yellow, sky fire made power in stone all around us.
+We set sail shortly after. Long we went through caves made bright by laid lines of solar sand, until finally, near midday, we emerged into a breathtaking sight: emerald green stretching out around us, lilies bending in gentle winds, marcshlands stretches to all sides, and ahead a great lake, and beyond it rose a great mountain, where falling waters glittered in the sunlight, making many pool which climbed up its surface, and a city of margle and gold spread around Her foothills. She was breathtaking, and remains so ever after this, my first visit to The Holy City of Aja. Though its great temples, academies, and palaces had not yet risen, the city glowed at both day and night with such ease on the eyes, it seemed descended directly from the stars.
+None could have told us that day that the mountain would dry up when our daughters had daughters who grew to be elders, before our Great Work could be finished, before we could ever complete our vessels to reach the stars... and the wars of that terrible time would bring ruin to us all.
+
+"Only the Wayfarers may guide you all home, now..."
+
+A blessing, a curse, a religion, an epitaph. 
+
+"Through death, we find new life..."
+
+---
 
