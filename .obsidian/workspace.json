@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forces of the Cosmos/Gōndë - Land of Light and Shadow.md",
+                "file": "Tales of the Galaxy/Solar Sails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gōndë - Land of Light and Shadow"
+              "title": "Solar Sails"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b6df0d7f20e7ad9",
@@ -152,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,6 +178,10 @@
   },
   "active": "d18d2340bb387308",
   "lastOpenFiles": [
+    "Journals and Thoughts/2024/2025-12-21.md",
+    "Tales of the Galaxy/Solar Sails.md",
+    "Forces of the Cosmos/Gōndë - Land of Light and Shadow.md",
+    "Tales of the Galaxy/Untitled",
     "Journals and Thoughts/2024/2024-11-05.md",
     "Journals and Thoughts/2024/2024-10-30.md",
     "Welcome to Gondōlla.md",
@@ -185,7 +190,6 @@
     "Journals and Thoughts/2024/2024-09-23.md",
     "Outline of the Fictional Universe.md",
     "The Ádane.md",
-    "Forces of the Cosmos/Gōndë - Land of Light and Shadow.md",
     "Peoples of Gondōlla/The Adáni.md",
     "Forces of the Cosmos/Forces of the Cosmos.md",
     "Places in Gondōlla/Ëia.md",
@@ -201,9 +205,7 @@
     "Languages/High Adáni - Introduction - Languages of Gondōlla.md",
     "Languages/High Adáni - Grammar.md",
     "Places in Gondōlla/The City of Waterfalls.md",
-    "A.md",
     "Places in Gondōlla",
-    "Journals and Thoughts/2024/2024-06-08 - Ani born in The City of Waterfalls.md",
     "Media, Images, and Visualizations/TheWayfarer_highres.png",
     "Media, Images, and Visualizations/TheOpenLibrary_ScribalArts_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/StudentsOfTheStoneWords_lowres.png",
@@ -221,7 +223,6 @@
     "Journals and Thoughts/2015 - 2018",
     "Non-Gondōllan Stories/birds-in-flight.png",
     "Poetry",
-    "Journals and Thoughts/2019/2019-02-27 Media",
-    "Non-Gondōllan Stories/_Ignore_This_Folder_"
+    "Journals and Thoughts/2019/2019-02-27 Media"
   ]
 }
