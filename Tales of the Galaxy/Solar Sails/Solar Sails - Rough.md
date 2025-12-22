@@ -140,3 +140,13 @@ So the Wayfarers gave that flock of Adanic Spirits a choice:
 Venture straight to the heart of the Falaxy and be saved from the Long Night, or venture to the planet where their pwople will reawaken after their long sailing across the stars... but at the risk of them *all* becoming fallen spawn of Miro, and become vassals of the darkness in Cosmic Night, dwelling in Miraj, for all eternity. 
 
 Most of the host chose to follow their brethren, no matter the cost; they would remain one people. Only they who came from the Scribal class, good of heart but not united in same spirit with the whole of their people, chose to make the journey ahead, to The Mountain of Light at the Heart of Gondolla.
+
+---
+
+"Some get the sleeping sickness when resurrected, especially when you've been resurrected a few times, like I have. I may look thirty suns, but I was reborn seven times spanning six-hundred years. I cannot remember who I was as a child, nor the face of my mother. But, I will tell you one thing that is for certain: there is no way in the galaxy I'm about to spend my last years starving on this burned-up planet."
+
+It impressed Ani that someone could remember the stellar worlds, so few remember anything after so long a slumber as they collectively shared.
+
+"I came very long after you all had gone to sleep. The sky was already dark, but some patches of sunlight were allowed to kiss the Earth's skin again. My solar ship has no Echo, for they are very rare in the galaxy, so none of the Sky Sailors saw me entering. I crashed in a place that is very far from here, and my Rebirth Chamber did not trigger. It was one of your lot on Sandgliders that found my broken ship sticking out the side of a rocky thrush. Lucky my big clay pot of Spirit soup wasn't smashed; they brought me to the Valley of Rebirth beside Aja, and there the priest Abbu brought life to me."
+
+![[ChatGPT Image Dec 21, 2025, 06_54_43 PM.png]]
