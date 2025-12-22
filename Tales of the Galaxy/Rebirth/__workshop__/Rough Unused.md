@@ -1,14 +1,8 @@
+ "I would rather be governed poorly by my own people, who wish me well, than well-governed by a people who care about me not."
 
 ---
 
-
----
-
-# "I would rather be governed poorly by my own people, who wish me well, than well-governed by a people who care about me not."
-
----
-
-"It is simple, really... You are using some material to transmit some atern over distances, short or great. You have great freedom to explore the materials to send the signals of your choosing. it is music, poetry, no matter the language or pattern you place on the connection... It is always a living principle, like the arrow flung from the bow of an archer. So take aim, and send your commands."
+"It is simple, really... You are using some material to transmit some pattern over distances, short or great. You have great freedom to explore the materials to send the signals of your choosing. it is music, poetry, no matter the language or pattern you place on the connection... It is always a living principle, like the arrow flung from the bow of an archer. So take aim, and send your commands."
 
 ---
 

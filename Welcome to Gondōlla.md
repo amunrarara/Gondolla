@@ -70,8 +70,15 @@ To support some of the stories, I have also created maps, generated images, and 
 It is my intention to publish *all* of my life's written works throughout the next span of life. For now, due to limitations of time, I am containing my other published *non-Gondōllan* stories here in this vault, which will eventually be moved to a separate location. These are contained within ***Non-Gondōllan Stories***. Some are also found within ***Poetry***
 
 
-© 2009 - 2029 - Acea Spades Black. All rights reserved.
+**© 2009–2029 Acea Spades Black. All Rights Reserved.**
 
-This work is protected by copyright and other intellectual property laws. All rights are reserved by the copyright holder. No part of this work may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright holder, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+This work and all associated materials are protected by copyright and other applicable intellectual property laws. All rights are reserved by the copyright holder.
 
-Any unauthorized use, reproduction, or distribution of this work may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
+No part of this work may be reproduced, copied, modified, distributed, published, displayed, performed, transmitted, or otherwise exploited in any form or by any means—whether electronic, mechanical, digital, or otherwise—without the prior written permission of the copyright holder, except where expressly permitted by applicable law (such as brief quotations for critical or scholarly review).
+
+**No AI / Machine Learning Use.**  
+This work may not be used, in whole or in part, for the purpose of training, fine-tuning, validating, prompting, or operating artificial intelligence systems, machine learning models, large language models, neural networks, data-mining systems, or any similar technologies, whether commercial or non-commercial, without explicit prior written consent from the copyright holder.
+
+Any unauthorized use, reproduction, distribution, or exploitation of this work—including prohibited AI or machine learning use—may result in civil and criminal liability and will be pursued to the fullest extent permitted by law.
+
+---
