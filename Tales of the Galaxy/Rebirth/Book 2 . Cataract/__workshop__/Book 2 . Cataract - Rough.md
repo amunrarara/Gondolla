@@ -1,0 +1,27 @@
+The great rush to reach the stars came when the waters of The Holy Mountain couldn't reach the Southern Grasslands, where the Southern Academy stood. Cataract had not seen water from the river now for nearly a century, save what could be piped in from the waterways controlled by The Scribes. All who dwelt in Cataract relied solely on The Scribes' good graces to remain alive.It was Cataract, after all, whose caves ore the greatest lodes of quicksilver in all of Ajeiajeia. By train, the Scribes would load out the spoils mined by the poor peoples of Cataract, and in return, droplets of water were their reward.
+"One drop of water per drop of refined quicksilver," the deal with the Scribes went, where a droplet of refined quicksilver could range from one pount to one ton of unrefined ore, the value of which could only be discerned as yield-bearing by the Scribes' own measuring systems, which took place in the walled fortress where the trains arrived and departed.
+Most in Cataract seriously doubted that their rations were fairly calculated any longer, and had all but figured out that the Scribes only doled out water in measures of their choosing, which could be influenced poorly by the "criminal acts" committed by the oppressed peoples, such as a child  stepping on a train track, or water being given to those who are in need (for that is only a right given to the Scribes, to disperse water). No matter the amount of ore given over, the people were given a specific amount that could never be exceeded, now matter how much ore the people could raise up to the coffers of the Scribes in their walled fortress. 
+
+Quicksilver, also called Sailor Tar, is a metal found in rocks which, when refined and applied to the bottom surface of anything that must move quickly across sand or glass, such as Sandgliders.
+
+To Aja, all the quicksilver was taken, and from the reservoirs surrounding the Southern Grasslands, the Scribes would draw the water to Cataract through a computer-controlled system of pipes. But with water now no longer reaching the plains, a doom began to fall upon all the Adani of Ajeiajeia, and a resurgence anew was kindled to finish the Great Work. The Southerners, by necessity, migrated upriver, filling already populous centers without enought to support the growing numbers, and the people began to panic. 
+
+---
+
+This story does not go the way you think it will. For although a single solar sailing vessel was cast out to the stars, intended to reach a faraway place in a long distant future, contain five-hundred Chambers of Rebirth with Adani loaded in, the rest of the planet-bound Adani were destined to perish in hunger and thirst. But, the death of a planet's physical life in whole marks the turning point of Planetary Night, to to such worlds come always first The Wayfarers, to teach and guide the few Adani capable of making the Walk Between Worlds, who may then guide the other Spirits of their people on the Great Journey to the Center of the Galaxy. And following, when all Spirits have been freed from the mortal coil, the Twii Lii approach, transforming those lost Spirits into moondust, bringing them into the Ring of Broken Moons, where they may be remade anew as fresh Spirits in the coming Galactic Day. And so, in the final years of Ajeiajeia, the WAyfarers came, but were rejected by Farrah Herself, having gone mad in Her final century of rulership at the hands of The High Scribe, and it was in secret this art was taught to the few who would listen, and thus there were shepherds capable of making the walk, and leading those of their people whose Spirits had developed enough to follow them.
+
+---
+
+So the Wayfarers gave that flock of Adanic Spirits a choice: 
+
+Venture straight to the heart of the Falaxy and be saved from the Long Night, or venture to the planet where their pwople will reawaken after their long sailing across the stars... but at the risk of them *all* becoming fallen spawn of Miro, and become vassals of the darkness in Cosmic Night, dwelling in Miraj, for all eternity. 
+
+Most of the host chose to follow their brethren, no matter the cost; they would remain one people. Only they who came from the Scribal class, good of heart but not united in same spirit with the whole of their people, chose to make the journey ahead, to The Mountain of Light at the Heart of Gondolla.
+
+---
+
+"Some get the sleeping sickness when resurrected, especially when you've been resurrected a few times, like I have. I may look thirty suns, but I was reborn seven times spanning six-hundred years. I cannot remember who I was as a child, nor the face of my mother. But, I will tell you one thing that is for certain: there is no way in the galaxy I'm about to spend my last years starving on this burned-up planet."
+
+It impressed Ani that someone could remember the stellar worlds, so few remember anything after so long a slumber as they collectively shared.
+
+"I came very long after you all had gone to sleep. The sky was already dark, but some patches of sunlight were allowed to kiss the Earth's skin again. My solar ship has no Echo, for they are very rare in the galaxy, so none of the Sky Sailors saw me entering. I crashed in a place that is very far from here, and my Rebirth Chamber did not trigger. It was one of your lot on Sandgliders that found my broken ship sticking out the side of a rocky thrush. Lucky my big clay pot of Spirit soup wasn't smashed; they brought me to the Valley of Rebirth beside Aja, and there the priest Abbu brought life to me."

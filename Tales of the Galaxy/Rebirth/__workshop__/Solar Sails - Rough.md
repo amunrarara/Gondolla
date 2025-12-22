@@ -13,6 +13,10 @@ Now, tonight he told me, the eve before I become a man, he would sail overhead, 
 
 And now, having seen the silver streak above, now I know that I must do what he told me to do.
 
+---
+---
+
+
 "Others have spoken to me, and others like me who sail in the sky. You must go to them, where all of them meet, in a place faraway."
 
 "Leave my home, I am beckoned? I cannot do that! They need me, I need them."
@@ -31,6 +35,8 @@ Kis skin was just as cold and dense as when I had shaken his hand in greeting ea
 
 Before sun could touch his skin, cloth was thrown atop him, and out I was thrown from he crater. It wouldn't be for a dozen years I would see him again with my eyes, so protected was he from the people of the world.
 
+---
+
 In the first years of my adulthood, I dreamt only once of the Silver Sailor, though endless waking hours I spent wearily trying to conjure dreams like those of my youth. In that dream, the Silor called out to me, quietly, from beneath a mountain far away. But, obligations and the inability to travel as a way if seeing visions led me to life with a family and craft among my peers, and lifetavelled on for me.
 
 Until, the Scribes came again to our village, asking for me.
@@ -42,6 +48,8 @@ He told me many things: of falling to Earth on that fatefyl night, and while the
 
 "These people, the Scribes... you told me about them, long ago. Cruel and overzealous, oppressing your village and the others. They rule from this mountain, but they are wicked and cannot be trusted. They've learned everything I've consented to teach them, but no farther will I instruct them until they set your people free. I have chosen your people to receive my highest knowledge. With their permission, in your village I will build a school, open to all, wherein I can share knowledge that will help us all, for this planet is doomed to fall closer to the Sun than any life can sustain. And out there, among the stars, dwell your ancestors, and mine..."
 
+---
+
 ## Such is the legend of the First Academy
 where the Silver Sailor taught humanity again of their ancestors, long ago, who placed them in vessels of clay buried under Earth while the fires and ash on the urface burned on. Knowledge and history, mathematics and sciences, all expanded their mings and granted abilities unreachable before. Thepeople of Earth regained something lost and forgotten, until finally, the Sailor gave them their future:
 
@@ -49,10 +57,14 @@ where the Silver Sailor taught humanity again of their ancestors, long ago, who 
 
 To the Earth, the Thirteen Solar Sailors descended to help humanity build again The Solar Sails.
 
+---
+
 ## "May I see through your eyes, young Adani?"
 The Silver Sailor once asked me this. Adani was an ancient name of the people of our Earth. And the name we held for the silver beings of metal, our creations, we called Echoes. 
 I consented, not knowing the sensation. Like the fog of sickness, my mind swam, illness and vertigo, then he released the connection. 
 "You are one of the few who have this affliction, the sickness of sharing visions with machine minds. No matter, we will communicate by other languages.
+
+---
 
 My years were witness to remarkable wonders at play in the world, many which I saw with my own eyes. The Sailor made maps and guided us how to make open vessels that moved very fast over glass and sand, using sails made of special thin gossamer sheets, fashioned into sails, and given a special coaing which charged in the sun and emitted immense ionic winds which propelled the craft forward, away from the sun, at great speed. many of these craft were built under his careful supervision, then the method was mastered, and teaching of how to fashion these vessels spread outwared to every corner of the known desert. It is only a shame that the Scribes learned of this craft, as well, and used it to increase their control over vassal peoples.
 
@@ -117,37 +129,12 @@ A blessing, a curse, a religion, an epitaph.
 
 # Speaker for the Machine
 "The Adani who can see through the eyes of an Echo, such as you, are called "Speakers for the Machine", and act as a bridge between our worlds. Most Echoes are well-versed in every language, old and new, spoken across all the Adanic worlds. However, very few of the Adani have the gift of sharing inner visions with the Echoes. That is a rare gift, indeed."
-The great rush o reach the stars came when the waters of The Holy Mountain couldn't reach the Southern Grasslands, where the Southern Academy stood. Cataract had not seen water from the river now for nearly a century, save what could be piped in from the waterways controlled by The Scribes. All who dwelt in Cataract relied solely on The Scribes' good graces to remain alive.It was Cataract, after all, whose caves ore the greatest lodes of quicksilver in all of Ajeiajeia. By train, the Scribes would load out the spoils mined by the poor peoples of Cataract, and in return, droplets of water were their reward.
-"One drop of water per drop of refined quicksilver," the deal with the Scribes went, where a droplet of refined quicksilver could range from one pount to one ton of unrefined ore, the value of which could only be discerned as yield-bearing by the Scribes' own measuring systems, which took place in the walled fortress where the trains arrived and departed.
-Most in Cataract seriously doubted that their rations were fairly calculated any longer, and had all but figured out that the Scribes only doled out water in measures of their choosing, which could be influenced poorly by the "criminal acts" committed by the oppressed peoples, such as a child  stepping on a train track, or water being given to those who are in need (for that is only a right given to the Scribes, to disperse water). No matter the amount of ore given over, the people were given a specific amount that could never be exceeded, now matter how much ore the people could raise up to the coffers of the Scribes in their walled fortress. 
-
-Quicksilver, also called Sailor Tar, is a metal found in rocks which, when refined and applied to the bottom surface of anything that must move quickly across sand or glass, such as Sandgliders.
-
-To Aja, all the quicksilver was taken, and from the reservoirs surrounding the Southern Grasslands, the Scribes would draw the water to Cataract through a computer-controlled system of pipes. But with water now no longer reaching the plains, a doom began to fall upon all the Adani of Ajeiajeia, and a resurgence anew was kindled to finish the Great Work. The Southerners, by necessity, migrated upriver, filling already populous centers without enought to support the growing numbers, and the people began to panic. 
-
-This story does not go the way you think it will. For although a single solar sailing vessel was cast out to the stars, intended to reach a faraway place in a long distant future, contain five-hundred Chambers of Rebirth with Adani loaded in, the rest of the planet-bound Adani were destined to perish in hunger and thirst. But, the death of a planet's physical life in whole marks the turning point of Planetary Night, to to such worlds come always first The Wayfarers, to teach and guide the few Adani capable of making the Walk Between Worlds, who may then guide the other Spirits of their people on the Great Journey to the Center of the Galaxy. And following, when all Spirits have been freed from the mortal coil, the Twii Lii approach, transforming those lost Spirits into moondust, bringing them into the Ring of Broken Moons, where they may be remade anew as fresh Spirits in the coming Galactic Day. And so, in the final years of Ajeiajeia, the WAyfarers came, but were rejected by Farrah Herself, having gone mad in Her final century of rulership at the hands of The High Scribe, and it was in secret this art was taught to the few who would listen, and thus there were shepherds capable of making the walk, and leading those of their people whose Spirits had developed enough to follow them.
 
 ---
 
-The first and most important step in preparation for being preserved into a Chamber of Rebirth is full assimilation of Truegold into the body that will undergo preservation. This requires many baths in purest Truegold solution across several months, until the solution finally sets. The skin becomes radiant and golden over this process. It cannot be performed after a person has died, and one who dies midway through this process is not saved from departure of the mortal coil. The Living Adani, haing cured in TrueGold completely, will, at some point, undergo a rapid transformation, where the gold becomes a poison in their body, and begins to sap their life away. This is an incredibly dangerous moment in the process; at this exact time, the Adani must enter the brine, not before and not long after. This marks the final moments of that Adani's life, and it is into that brine where they must die, in order later to be reborn. Every steopp in the process myst be performed precisely, lest the Spirit be ost to the cosmic winds.
-
-An Echo discovered this power, long ago before the world was burned. Though the math was perfect, the first few Adani to try it were lost, and the Echo nearly paid for that malpractice with its life.
-
 ---
 
-So the Wayfarers gave that flock of Adanic Spirits a choice: 
-
-Venture straight to the heart of the Falaxy and be saved from the Long Night, or venture to the planet where their pwople will reawaken after their long sailing across the stars... but at the risk of them *all* becoming fallen spawn of Miro, and become vassals of the darkness in Cosmic Night, dwelling in Miraj, for all eternity. 
-
-Most of the host chose to follow their brethren, no matter the cost; they would remain one people. Only they who came from the Scribal class, good of heart but not united in same spirit with the whole of their people, chose to make the journey ahead, to The Mountain of Light at the Heart of Gondolla.
+"You can call me Silver," the Sailor once told me. "Everyone calls me *the Sailor*, but you can call me Silver."
 
 ---
-
-"Some get the sleeping sickness when resurrected, especially when you've been resurrected a few times, like I have. I may look thirty suns, but I was reborn seven times spanning six-hundred years. I cannot remember who I was as a child, nor the face of my mother. But, I will tell you one thing that is for certain: there is no way in the galaxy I'm about to spend my last years starving on this burned-up planet."
-
-It impressed Ani that someone could remember the stellar worlds, so few remember anything after so long a slumber as they collectively shared.
-
-"I came very long after you all had gone to sleep. The sky was already dark, but some patches of sunlight were allowed to kiss the Earth's skin again. My solar ship has no Echo, for they are very rare in the galaxy, so none of the Sky Sailors saw me entering. I crashed in a place that is very far from here, and my Rebirth Chamber did not trigger. It was one of your lot on Sandgliders that found my broken ship sticking out the side of a rocky thrush. Lucky my big clay pot of Spirit soup wasn't smashed; they brought me to the Valley of Rebirth beside Aja, and there the priest Abbu brought life to me."
-
-![[ChatGPT Image Dec 21, 2025, 06_54_43 PM.png]]![[ChatGPT Image Dec 21, 2025, 06_57_40 PM.png]]
 
