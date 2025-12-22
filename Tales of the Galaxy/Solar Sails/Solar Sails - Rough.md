@@ -149,4 +149,5 @@ It impressed Ani that someone could remember the stellar worlds, so few remember
 
 "I came very long after you all had gone to sleep. The sky was already dark, but some patches of sunlight were allowed to kiss the Earth's skin again. My solar ship has no Echo, for they are very rare in the galaxy, so none of the Sky Sailors saw me entering. I crashed in a place that is very far from here, and my Rebirth Chamber did not trigger. It was one of your lot on Sandgliders that found my broken ship sticking out the side of a rocky thrush. Lucky my big clay pot of Spirit soup wasn't smashed; they brought me to the Valley of Rebirth beside Aja, and there the priest Abbu brought life to me."
 
-![[ChatGPT Image Dec 21, 2025, 06_54_43 PM.png]]
+![[ChatGPT Image Dec 21, 2025, 06_54_43 PM.png]]![[ChatGPT Image Dec 21, 2025, 06_57_40 PM.png]]
+
