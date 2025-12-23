@@ -16,12 +16,3 @@ The Scribes didn't originate on that planet. They were a faction, spread out acr
 
 ### ...ships made of metal with sails of solar silk.
 
-Scene: Across many planets, across many stars, Rebirth chambers are opening... Golden light pours forth, and radiant gold people step out of them, into the dark of night. 
-
-"The Adani are awakening..."
-
-Awakening to know that they are the last of their kind, that reproduction has not been saved in their slumbers.
-
-"For the mystery is, though many of us have been sleeping far longer than others, we have not reached nearly as far down the chain of progenitors, and yet still we awaken incapable of reproduction. Fascinating, and devastating. I think I will go back to sleep again, after all."
-
-"I'm so sorry to tell you... we have lost the recipe for truegold and can find no more sources of it. We cannot be reborn."
