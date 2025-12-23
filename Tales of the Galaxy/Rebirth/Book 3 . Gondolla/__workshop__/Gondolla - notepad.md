@@ -26,3 +26,14 @@ A particularly pesky Wayfarer once told his companions:
 
 "If we find another Adani who's sleeping, do we wake them up? Or, do we let them sleep? Some are grateful to stretch their legs planet-side again, others are mortified by the galaxy they've stepped into; so, I'm not really sure which way to go, but most times, I take it like a kind of duty, that we all can walk free of those chambers again. If last breath is drawn by an Adani, the galaxy will move on. Life has its many forms, and we are but the breath of a planet who once loved us."
 
+"We are rare, in this galaxy."
+
+---
+
+"These Adani were awakened on our mother planet, who was lost to fire. But their women bear children, and have done so for many generations; but upon leaving our mother planet, they lost this ability. But they bring truegold in vast quantity; enough for every living Adani to take golden sleep three more times. Therefore I say, we return to our mother, that we bring her our gifts from all the galaxy, and learn her ways to bask in the mystery that allows us again to bear children, let the Adani flourish again!"
+
+"But our mother is too close to the sun, now. There is no way we can sustain ourselves. There is not even any water."
+
+At this, a citizen of Cataract stepped forth. "It is time we break the seal on our silence. We, the people of Cataract, have known for many centuries now how to locate the Underground Ocean. We, as children becoming adults, visit it once, and swim in its waters. It is deep, and vast. Many of our people are explorers of its manifold pathways, covered in stone, and some even plumb its depths in special crafts. All is drinkable, they have said, and all is teeming with life."
+
+At this, a mighty council united, and all Adani made ready to set sail for their homeland, their mother planet.
