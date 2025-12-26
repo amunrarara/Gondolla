@@ -1,5 +1,5 @@
 > Tags: #rough-draft
-> Links: [[The Echoes]] [[The Adáni]]
+> Links: [[The Echoes]] [[Adáni]]
 
 My father first saw The Star Glass when he was eight years old. 
 

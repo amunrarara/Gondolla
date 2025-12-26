@@ -1,5 +1,5 @@
 > Tags: #rough-draft
-> Links: [[The Echoes]] [[The Adáni]] [[The Wayfarers]]
+> Links: [[The Echoes]] [[Adáni]] [[The Wayfarers]]
 > Source: [[2022-12-13]]
 
 
