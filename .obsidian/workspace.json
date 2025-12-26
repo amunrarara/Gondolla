@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "98632aa935922798",
+        "id": "12282efe7f133535",
         "type": "tabs",
         "children": [
           {
-            "id": "d18d2340bb387308",
+            "id": "301ec80c087f9e81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places in Gondōlla/Mythic/Ëia.md",
+                "file": "Tales of the Galaxy/Rebirth/Complete Plot Synopsis - Rebirth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ëia"
-            }
-          },
-          {
-            "id": "96c692f926762ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 11 . Distant Sands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ch 11 . Distant Sands"
-            }
-          },
-          {
-            "id": "14dd5fad44beda47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 01 . Ani's Dreams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ch 01 . Ani's Dreams"
-            }
-          },
-          {
-            "id": "b03d1a0384163b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places in Gondōlla/Ajeiajeia/Tweidandena - Twilightvein.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tweidandena - Twilightvein"
+              "title": "Complete Plot Synopsis - Rebirth"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +176,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "14dd5fad44beda47",
+  "active": "301ec80c087f9e81",
   "lastOpenFiles": [
-    "Tales of the Galaxy/Rebirth/Book 2 . Cataract/01. The Academy.md",
+    "Tales of the Galaxy/Rebirth/Back of the Book - Rebirth.md",
+    "Tales of the Galaxy/Rebirth/Complete Plot Synopsis - Rebirth.md",
+    "Media, Images, and Visualizations/Rebirth-BackOfTheBook.mp3",
+    "Media, Images, and Visualizations/Rebirth-CompletePlotSynopsis.mp3",
+    "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 01 . Ani's Dreams.md",
+    "Places in Gondōlla/Mythic/Ëia.md",
+    "Forces of the Cosmos/Materials/Mythic/Áeia - Primordial Light.md",
     "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 11 . Distant Sands.md",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Places in Gondōlla/Ajeiajeia/Tweidandena - Twilightvein.md",
+    "Untitled 1.base",
+    "Tales of the Galaxy/Rebirth/Book 2 . Cataract/01. The Academy.md",
     "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 10 . Sky Sailors.md",
     "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 09 . Ajeiajeia.md",
     "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 08 . Journey.md",
@@ -232,31 +200,19 @@
     "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 04 . Dark Mountain.md",
     "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 03 . Coming of Age.md",
     "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 02 . Silver Sailor.md",
-    "Tales of the Galaxy/Rebirth/Book 1 . Sails/Ch 01 . Ani's Dreams.md",
     "Tales of the Galaxy/Rebirth/Book 2 . Cataract/02. Rebirth.md",
-    "Áeia - Primordial Light.md",
-    "Places in Gondōlla/Mythic/Ëia.md",
     "Forces of the Cosmos/Materials/Mythic/Ádmata.md",
     "Places in Gondōlla/Mythic",
     "Forces of the Cosmos/Materials/Ajeiajeia",
     "Forces of the Cosmos/Materials/Ajeiajeia/twilightstone.md",
     "Forces of the Cosmos/Materials/Mythic",
-    "Untitled.base",
-    "Places in Gondōlla/Ajeiajeia/Tweidandena - Twilightvein.md",
     "Places in Gondōlla/Ajeiajeia/Aja - The Holy City of Waterfalls and White Marble.md",
     "Places in Gondōlla/Ëia - Primordial Light.md",
     "Forces of the Cosmos/Gōndë - Land of Light and Shadow.md",
     "Forces of the Cosmos/Materials",
     "The Ádane.md",
-    "Untitled 2.base",
     "Places in Gondōlla/Ajeiajeia",
     "Peoples of Gondōlla/Adáni/The Scribes.md",
-    "Peoples of Gondōlla/Adáni/Adáni.md",
-    "Peoples of Gondōlla/Echoes",
-    "Tales of the Galaxy/Rebirth/Book 2 . Cataract/__workshop__/notebook - scribes.md",
-    "Peoples of Gondōlla/Adáni",
-    "Tales of the Galaxy/Rebirth/Book 2 . Cataract/__workshop__/Cataract - notebook.md",
-    "Untitled 1.base",
     "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/AcademyOfTheAmun_GreatCities_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/cyberscape.png",
