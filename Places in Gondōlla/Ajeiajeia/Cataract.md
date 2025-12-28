@@ -1,13 +1,3 @@
-Like the looking glass, our focus must enlarge and see deeper unto time, for then we are absorbing a greater, older portion of this universe, and we ourselves become more-deeply awakened by the practice.
-
-"Weights and measures... weights and measures. Always measure their weights and measures."
-
-Walking through the Marketplace, Tombeiu held his tablet close, while Sombreiu sauntered with it out and on display. Sombreiu kept his cables hanging from off his neck, catching light in their metallic casing, while Tombeiu wore his coiled on his back, as was customary, and best for catching the most sunlight, a fact he enlightened Sombreiu regarding now many times that day. Sombreiu had that same lazy look on his pudgy face he always did when the both of them went out checking software for Scribelock breaks or faulty-testing elements. 
-
-Every shop in town was subject to random verifications by the Scribes at any time, and updates distributed at their will. Not that it was a necessary practice anymore, since the Scribes had rolled out Town Terminals in every square, and tied water distributions to the weekly check-in of every citizen. It was required, now, that every Cartouche of every citizen be plugged into a Town Terminal between sun up and sun down on the seventh day of the solar cycle, causing massive hold-ups to most of the city's industry, forcing every living Spirit down to the canyon bed  to stand in the blistering heat for many hours to collect their week's dribbles from old, rusting pipes. 
-
----
-
 The geography of Cataract is such: 
 
 Standing atop the Southern Academy, one would see a wide open grassland stretching in all directions, where the Great River coming from the north has split into many smaller waters that descend to the south, and one greater water headed due to the west, splitting the cliffs. At the furthest borders can be seen, at the very edge of the horizon, red cliffs in all directions except south, where the grasslands continue until drying out upon spills of endless sand. The Southern Academy, and the town that has risen round it, stands atop a wide, grassy hill at the center of the topmost spearhead of the Southern Grasslands. Facing west when the sun is rising or falling, one can almost see the glitter of gold-metal columns glistening upon the cliff face, wherein The Southern Temple of Rebirth is carved. Where the glittering metal ends, the Last River has cut the stone and entered into the cliffs surrounding Cataract.
@@ -17,4 +7,3 @@ Within the Temple of Rebirth, one could walk as far as the first bend in the cli
 In centuries past, Cataract was brimming with water and life; farthest of the places in Ajeiajeia where the waters of The Holy Mountain sustained life. The canyon was more-than half filled by a great lake, a day's long march in perimeter, with a wide, hilly embankment on its western edge, covered in forest and foilage. Even the walls of the canyons were lush and fed by the mists of many waterfalls that fell from the lake into numerous tunnels and caves, taking water to unknown depths. In the time of the late Adani, however, the waters were nearly dried up, though trickles and channels still made it to their ancient reaches. 
 
 It was exclusively the will of the Scribes that a village be made there, under their tuteliage and the watchful eye of their fortress, to mine Quicksilver from near-endless supply that bountifully ran in great veins throughout the canyons and their caves. Homes on the high embankment were carved from the rock, making tunnels throughout that whole hill, and populated with Adani seeking work in trade for water.
-
