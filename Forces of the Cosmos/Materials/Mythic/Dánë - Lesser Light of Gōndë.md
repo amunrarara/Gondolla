@@ -1,0 +1,1 @@
+Realm of The Vandréi, the Realm of Light which is closer to [[Gōndë - Mingled Light and Shadow]] than  [[Ëdān - Greater Light of Gōndë]]

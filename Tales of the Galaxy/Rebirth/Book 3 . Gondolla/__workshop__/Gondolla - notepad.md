@@ -37,3 +37,7 @@ A particularly pesky Wayfarer once told his companions:
 At this, a citizen of Cataract stepped forth. "It is time we break the seal on our silence. We, the people of Cataract, have known for many centuries now how to locate the Underground Ocean. We, as children becoming adults, visit it once, and swim in its waters. It is deep, and vast. Many of our people are explorers of its manifold pathways, covered in stone, and some even plumb its depths in special crafts. All is drinkable, they have said, and all is teeming with life."
 
 At this, a mighty council united, and all Adani made ready to set sail for their homeland, their mother planet.
+
+---
+
+A tremor at the edges of light woke the Wayfarer, sleeping in their cell in Aieishanu, The Highest Mount, just before the gates to Eia. A sensitive Spirit and kin to the Adani, born to the homeworld of the Adani, awakened in the farther reaches of their empires, and returned once to pay homages to their Motherworld, a dear kinship of heart between Motherworld and Spirit were deeply alive between them. He mourned when the Great Darkness of that aeon approached, for so few of his fellows from this crop of young souls had been able to master the lightbody, thus so few made it free of the middle ground 

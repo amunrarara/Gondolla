@@ -1,1 +1,0 @@
-The lowest realm of physical matter transformed by [[The Átma]]. Inhabited by the physical body of [[Adáni]]. The central point in the cosmological transformation between Light and Shadow. The Realm closest to [[Shaddāh - The Shadow]]. 

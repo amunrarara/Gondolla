@@ -10,7 +10,7 @@ Within [[Áeia]] occurred an event, brought about by a group of divinities which
 
 It is then said that these divinities used [[The Átma]] to craft dwellings, fashion for themselves bodies, and give form to their Realms. The creations of The Atma were made of a force called [[Ádmata]], thus the realm is called.
 
-But unto the dweling place of [[Míro]], a terrible destruction began. For [[Míro]] wished for a private Realm by which no other divinity could see, nor touch. Míro tinkered with [[The Átma]], and through their experiments, created [[Shaddāh]], Primeval Shadow. [[Shaddāh]] was an unstable force, and immediately turned every creation of Admata into a frozen, lifeless shadow.
+But unto the dweling place of [[Míro]], a terrible destruction began. For [[Míro]] wished for a private Realm by which no other divinity could see, nor touch. Míro tinkered with [[The Átma]], and through their experiments, created [[Shaddāh - Primeval Void]], Primeval Shadow. [[Shaddāh - Primeval Void]] was an unstable force, and immediately turned every creation of Admata into a frozen, lifeless shadow.
 
 Shaddáh spread out across all of the Realms of Admata, until finally naught was left unfrozen.
 
@@ -24,7 +24,7 @@ Aeons are characterized by periods of Gondolla's "breathing": an Aeon begins wit
 
 Each Aeon is separated by a period of darkness, in which Shaddáh reclaims ownership of all that was not returned to Eia. It is a period wherein the safe places of Gondōlla are under attack from material forces attempting to transform all back into shadow. This continues until a new Aeon begins, and Gondōlla expands again to encompass a great part of Shaddáh.
 
-Thus the Aeons have repeated nine times thence, and The River People consider their time to be among The Tenth Aeon, born in the realm called [[Gōndë - Land of Light and Shadow]].
+Thus the Aeons have repeated nine times thence, and The River People consider their time to be among The Tenth Aeon, born in the realm called [[Gōndë - Mingled Light and Shadow]].
 
 Eia can be reached by The Adani, the word given by The River People to humans; it means roughly: those whose body, born in Gōndë contains the opportunity to grow a form of Spirit capable of traveling between worlds and making the journey back to Eia.
 
