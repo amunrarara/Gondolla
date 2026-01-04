@@ -66,6 +66,7 @@ The Scribes didn't originate on that planet. They were a faction, spread out acr
 
 *A lot of the story beats are changing right now, and I think that's perfectly okay. Let's do a synopsis timeline here:*
 
+**Book 1: Sand**
 - Scribes awaken, discover their inevitable doom, make Scribal Prime.
 - Scribal Prime awakens Adani, controls them, and inevitably reaches Ajeiajeia.
 - Thirteen Echoes in the sky communicate with awakened Adani, orchestrate a rebellion with its center in the caves beneath Holy Mountain.
@@ -74,5 +75,6 @@ The Scribes didn't originate on that planet. They were a faction, spread out acr
 - The Scribes lead an assault on Ani's village; his people escape, take refuge in the desert, and unite many villagers in a plan to reach Holy Mountain. The survivors are discovered, and flee in the night.
 - Silver, Aji, and the survivors reach Holy Mountain. Enough Adani exist to form a nation, with Aja as its capitol. An uneasy treatise stands between the Adani who are Echo-aligned, versus those who are Scribe-controlled. 
 
+-> Book 2: Cataract
 
 ---

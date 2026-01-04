@@ -1,0 +1,1 @@
+All Beings that bear bodies which are made of Gōnde, the mixture of [[Shaddāh - Primeval Void]] and 
