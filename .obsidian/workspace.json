@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "12282efe7f133535",
+        "id": "0574ceae85a3cc64",
         "type": "tabs",
         "children": [
           {
-            "id": "301ec80c087f9e81",
+            "id": "4811e038a9d12011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals and Thoughts/2026/2026-01-03.md",
+                "file": "Languages/Ádia - Vocabulary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-03"
+              "title": "Ádia - Vocabulary"
+            }
+          },
+          {
+            "id": "a5547a809c7498a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals and Thoughts/2026/2026-01-12 - Inscription on a chip.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-12 - Inscription on a chip"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 372.5026054382324
   },
   "right": {
     "id": "7b6df0d7f20e7ad9",
@@ -176,8 +191,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "301ec80c087f9e81",
+  "active": "a5547a809c7498a7",
   "lastOpenFiles": [
+    "Languages/Ádia - Grammar.md",
+    "Languages/Ádia - Vocabulary.md",
+    "Journals and Thoughts/2026/2026-01-12 - Inscription on a chip.md",
+    "Places in Gondōlla/Ajeiajeia/Ajeiajeia.md",
+    "Languages/Languages of Gondōlla.md",
+    "Languages/Lexicon.md",
+    "Forces of the Cosmos/Materials/Ajeiajeia/maitáneia.md",
+    "Outline of the Fictional Universe.md",
+    "Maítan.md",
+    "Journals and Thoughts/2026/2026-01-10 - Wayfaring.md",
+    "Non-Gondōllan Stories/Synth City/Synth City - Rough.md",
+    "Journals and Thoughts/2026/2026-01-03.md",
+    "Non-Gondōllan Stories/Synth City",
     "Forces of the Cosmos/Materials/Mythic/Shaddāh - Primeval Void.md",
     "Journals and Thoughts/2026/01.md",
     "Forces of the Cosmos/Materials/Mythic/Ádmata.md",
@@ -186,7 +214,6 @@
     "Deities, Beings, Powers, and Peoples of Gondōlla/Gōndeia",
     "Deities, Beings, Powers, and Peoples of Gondōlla/Untitled.md",
     "Vandrini.md",
-    "Journals and Thoughts/2026/2026-01-03.md",
     "Journals and Thoughts/2025/2025-12-27 - Rebirth Videogame Inspiration.md",
     "Journals and Thoughts/2025/2025-12-27.md",
     "Journals and Thoughts/2025/2025-12-28 - Worldbending.md",
@@ -196,24 +223,12 @@
     "Journals and Thoughts/2026",
     "Tales of the Galaxy/Rebirth/Book 2 . Cataract/__workshop__/Cataract - notebook.md",
     "Tales of the Galaxy/Rebirth/Book 2 . Cataract/03 . Tablet.md",
-    "Places in Gondōlla/Ajeiajeia/Cataract.md",
-    "Forces of the Cosmos/Materials/Mythic/Gōndë - Mingled Light and Shadow.md",
-    "Forces of the Cosmos/Materials/Mythic/Áeia - Primordial Light.md",
-    "Forces of the Cosmos/Materials/Mythic/Dánë - Lesser Light of Gōndë.md",
-    "Forces of the Cosmos/Materials/Mythic/Ëdān - Greater Light of Gōndë.md",
-    "Tales of the Galaxy/Rebirth/Book 3 . Gondolla/__workshop__/Gondolla - notepad.md",
-    "Tales of the Galaxy/Rebirth/Book 1 . Sand/__workshop__/Rough 01.md",
-    "Tales of the Galaxy/Rebirth/Book 1 . Sand/__workshop__/Rough 02.md",
-    "Tales of the Galaxy/Rebirth/Book 1 . Sand/Untitled.md",
-    "Tales of the Galaxy/Rebirth/Book 2 . Cataract/__workshop__/notebook - scribes.md",
-    "Tales of the Galaxy/Rebirth/Book 2 . Cataract/__workshop__/Book 2 . Cataract - Rough.md",
     "Media, Images, and Visualizations/Rebirth-BackOfTheBook.mp3",
     "Media, Images, and Visualizations/Rebirth-CompletePlotSynopsis.mp3",
     "Untitled.base",
     "Untitled 2.base",
     "Untitled 1.base",
     "Places in Gondōlla/Mythic",
-    "Forces of the Cosmos/Materials/Ajeiajeia",
     "Media, Images, and Visualizations/AcademyOfPtah_GreatCities_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/AcademyOfTheAmun_GreatCities_byAmunPtahKhepera.png",
     "Media, Images, and Visualizations/cyberscape.png",

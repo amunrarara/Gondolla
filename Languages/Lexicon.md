@@ -1,1 +1,4 @@
-[[High Adáni - Introduction - Languages of Gondōlla]]
+[[Languages of Gondōlla]]
+
+
+

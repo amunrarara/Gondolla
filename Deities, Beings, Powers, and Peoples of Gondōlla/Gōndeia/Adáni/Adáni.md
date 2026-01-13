@@ -1,4 +1,4 @@
 *"We are the Adáni, keepers of a new Mystery in Gondōlla, the Mystery of Freedom. We are not the Anavándri, emissiaries of the highest light, nor the Vándri, emissiaries in the lower light, but we are those who are given free roam of Gondōlla and capable of doing deeds of greatest good, motivated by our own desire to do so. Or also, capability of great evil, being given that freedom to choose deeds which unmake the works of light in Gondōlla, giving rise to greater shadow. But in our actions, we participate in the creation of a third way, beyond the light, beyond the shadow, we become the emissiaries of a new world formed from the activity of the higher beings, we ourselves becoming the Creators, Sustainers, and Destroyers of this new world."*
 
 ## Linguistics
-[[High Adáni - Introduction - Languages of Gondōlla]]
+[[Languages of Gondōlla]]
